@@ -1,0 +1,184 @@
+{
+  "cam": [
+    {
+      "title": "Bench Work",
+      "desc":
+        "Benchwork adalah istilah yang merujuk kepada serangkaian pekerjaan atau proses yang dilakukan di atas meja atau bench dalam sebuah workshop atau lingkungan manufaktur. Kegiatan benchwork melibatkan penggunaan berbagai alat tangan dan peralatan kecil untuk merakit, memperbaiki, atau memproses komponen atau produk. Contoh pekerjaan benchwork meliputi pemotongan, pengeboran, pengamplasan, penyambungan, dan perakitan komponen mekanis."
+    },
+    {
+      "title": "Tool Grinding",
+      "desc":
+        "Tool grinding adalah proses mengasah atau memperbaiki alat pemotong (tool) seperti mata bor, pahat, mata frais, atau mata gergaji untuk mengembalikan tepi potong mereka atau menghasilkan tepi yang tajam dan presisi. Proses ini penting dalam manufaktur dan industri karena alat pemotong yang tajam dan presisi diperlukan untuk mencapai hasil yang berkualitas dalam proses pemotongan atau permesinan. Proses tool grinding melibatkan penggunaan mesin gerinda khusus yang dilengkapi dengan roda gerinda abrasif. Roda gerinda ini digunakan untuk menghilangkan material yang tidak perlu dari alat pemotong dan membentuk kembali profil tepi potongnya."
+    },
+    {
+      "title": "Lathe Work",
+      "desc":
+        "Lathe work adalah istilah yang mengacu pada serangkaian pekerjaan yang dilakukan dengan menggunakan mesin bubut (lathe). Mesin bubut adalah peralatan mekanik yang digunakan untuk memotong atau membentuk... Proses tool grinding melibatkan penggunaan mesin gerinda khusus yang dilengkapi dengan roda gerinda abrasif. Roda gerinda ini digunakan untuk menghilangkan material yang tidak perlu dari alat pemotong dan membentuk kembali profil tepi potongnya."
+    },
+    {
+      "title": "Milling Work",
+      "desc":
+        "Milling work adalah serangkaian pekerjaan yang dilakukan dengan mesin frais untuk menghilangkan material dari benda kerja dan membentuk berbagai bentuk. Ini termasuk pengupasan permukaan, pemotongan samping, pembentukan ujung, dan lainnya. Proses ini umum dalam berbagai industri dan menghasilkan komponen dengan presisi tinggi.Milling work adalah proses yang sangat penting dalam manufaktur dan digunakan dalam berbagai industri, termasuk manufaktur logam, plastik, kayu, dan banyak lagi. Dengan menggunakan mesin frais, berbagai komponen, seperti gigi, lubang, alur, dan permukaan yang kompleks, dapat dibuat dengan tingkat presisi tinggi. Operator mesin frais harus memiliki pengetahuan dan keterampilan yang baik dalam mengoperasikan mesin ini serta pemahaman tentang berbagai teknik milling work yang diperlukan untuk mencapai hasil yang diinginkan."
+    },
+    {
+      "title": "Gambar Teknik",
+      "desc":
+        "Gambar teknik dalam manufaktur adalah representasi grafis yang mendetail dari komponen atau produk yang akan diproduksi. Ini memberikan informasi tentang dimensi, bentuk, toleransi, dan material yang digunakan, serta langkah-langkah pemrosesan yang diperlukan. Gambar teknik sangat penting karena memungkinkan komunikasi yang jelas di antara tim desain, insinyur, dan operator mesin. Informasi yang disampaikan melalui gambar teknik membantu memastikan bahwa produk memenuhi standar kualitas dan spesifikasi yang diinginkan. Ini juga mencakup simbol, notasi, dan perspektif yang diperlukan untuk menggambarkan objek secara akurat. Gambar teknik biasanya ditandatangani dan disetujui oleh profesional berlisensi untuk memastikan keakuratan dan keandalan."
+    },
+    {
+      "title": "Autocad",
+      "desc":
+        "        AutoCAD adalah perangkat lunak desain dan pemodelan komputer yang digunakan secara luas dalam industri arsitektur, rekayasa, dan desain. Dikembangkan oleh Autodesk, AutoCAD memungkinkan pengguna untuk membuat gambar teknik, diagram, dan model tiga dimensi yang presisi. Perangkat lunak ini menawarkan berbagai fitur yang kuat, seperti pengeditan objek, pemodelan 3D, pemrograman berbasis skrip, dan kemampuan berbagi file yang mudah. AutoCAD digunakan untuk merancang bangunan, mesin, peralatan elektronik, peta, dan banyak lagi. Salah satu fitur utama AutoCAD adalah penggunaan sistem koordinat yang memungkinkan objek ditempatkan dengan tepat. Selain itu, AutoCAD menyediakan berbagai alat pemodelan yang membantu dalam merancang objek tiga dimensi dan menciptakan gambar dengan presisi tinggi. Ini adalah perangkat lunak yang sangat penting dalam industri yang membutuhkan desain teknik yang akurat dan visualisasi proyek yang kompleks. AutoCAD telah menjadi standar dalam industri ini dan digunakan oleh profesional di seluruh dunia untuk merancang dan mewujudkan ide-ide mereka."
+    },
+    {
+      "title": "Solidwork",
+      "desc":
+        "SOLIDWORKS adalah perangkat lunak desain 3D yang kuat dan sangat terkenal dalam industri rekayasa dan desain. Dikembangkan oleh Dassault Systèmes, SOLIDWORKS menyediakan berbagai alat untuk merancang produk dan sistem dengan presisi tinggi. Ini digunakan untuk menciptakan model 3D dari berbagai jenis produk, mulai dari mesin industri hingga produk konsumen, dengan kemampuan merancang, menguji, dan menganalisis kinerja mereka. Keunggulan SOLIDWORKS termasuk antarmuka pengguna yang intuitif, pengeditan model yang mudah, serta fitur pemodelan parametrik yang kuat. Selain itu, SOLIDWORKS memiliki modul simulasi yang memungkinkan pengguna untuk menganalisis beban dan respons produk sebelum mereka dibuat secara fisik. Ini menghemat waktu dan biaya dalam pengembangan produk. SOLIDWORKS juga memfasilitasi kolaborasi tim dengan alat berbagi file yang efisien dan integrasi dengan sistem manufaktur. Ini merupakan perangkat lunak yang sangat berharga dalam memfasilitasi inovasi dan membantu insinyur, desainer, dan ahli manufaktur dalam menghasilkan produk-produk berkualitas dan efisien."
+    },
+    {
+      "title": "Mastercam",
+      "desc":
+        "Mastercam adalah perangkat lunak komputer-aided design and computer-aided manufacturing (CAD/CAM) yang digunakan dalam industri manufaktur dan permesinan. Perangkat lunak ini dikembangkan oleh CNC Software, Inc. Mastercam memungkinkan pengguna untuk membuat, mengedit, dan mensimulasikan model 3D yang akurat dari komponen dan produk yang akan diproduksi. Selain itu, Mastercam juga mengintegrasikan alat pemrograman permesinan berbasis CNC untuk mengontrol mesin perkakas seperti mesin frais, bubut, dan mesin penggiling. Ini memungkinkan perusahaan manufaktur untuk merencanakan dan melaksanakan proses produksi dengan efisiensi tinggi, meningkatkan kualitas produk, dan mengoptimalkan penggunaan mesin perkakas. Mastercam juga memiliki berbagai modul tambahan yang dapat disesuaikan untuk berbagai aplikasi dan industri."
+    },
+    {
+      "title": "Pelatihan CNC and Tunneling",
+      "desc":
+        "Mastercam adalah perangkat lunak komputer-aided design and computer-aided manufacturing (CAD/CAM) yang digunakan dalam industri manufaktur dan permesinan. Perangkat lunak ini dikembangkan oleh CNC Software, Inc. Mastercam memungkinkan pengguna untuk membuat, mengedit, dan mensimulasikan model 3D yang akurat dari komponen dan produk yang akan diproduksi. Selain itu, Mastercam juga mengintegrasikan alat pemrograman permesinan berbasis CNC untuk mengontrol mesin perkakas seperti mesin frais, bubut, dan mesin penggiling. Ini memungkinkan perusahaan manufaktur untuk merencanakan dan melaksanakan proses produksi dengan efisiensi tinggi, meningkatkan kualitas produk, dan mengoptimalkan penggunaan mesin perkakas. Mastercam juga memiliki berbagai modul tambahan yang dapat disesuaikan untuk berbagai aplikasi dan industri."
+    }
+  ],
+  "cad": [
+    {
+      "title": "Autocad",
+      "desc":
+        "Perangkat lunak desain yang berperan sentral dalam industri manufaktur modern. Dengan AutoCAD, insinyur dan desainer dapat membuat gambar teknis yang sangat akurat, diagram, dan model 2D/3D yang esensial..."
+    },
+    {
+      "title": "Solidwork",
+      "desc":
+        "SolidWorks adalah perangkat lunak desain CAD (Computer-Aided Design) yang penting dalam pelatihan desain manufaktur. Dengan SolidWorks, peserta pelatihan dapat memahami secara mendalam konsep-konsep... Proses tool grinding melibatkan penggunaan mesin gerinda khusus yang dilengkapi dengan roda gerinda abrasif. Roda gerinda ini digunakan untuk menghilangkan material yang tidak perlu dari alat pemotong dan membentuk kembali profil tepi potongnya."
+    },
+    {
+      "title": "Unigraphic NX9",
+      "desc":
+        "        Pelatihan desain manufaktur dengan menggunakan Unigraphics NX 9 adalah investasi berharga bagi para profesional dan mahasiswa di bidang manufaktur. Unigraphics NX 9 adalah perangkat.."
+    },
+    {
+      "title": "Catia",
+      "desc":
+        "Proses tool grinding melibatkan penggunaan mesin gerinda khusus yang dilengkapi dengan roda gerinda abrasif. Roda gerinda ini digunakan untuk menghilangkan material yang tidak perlu dari alat pemotong dan membentuk kembali profil tepi potongnya."
+    },
+    {
+      "title": "Mastercam",
+      "desc":
+        "Pelatihan desain manufaktur dengan menggunakan Mastercam adalah langkah penting dalam persiapan profesional untuk industri manufaktur modern. Mastercam adalah perangkat lunak CAD/CAM yang kuat, memungkinkan peserta pelatihan untuk memahami desain produk, perencanaan produksi, dan pemrograman mesin CNC. Dalam pelatihan ini, peserta akan mempelajari pembuatan model 3D yang kompleks, optimasi desain untuk efisiensi manufaktur, dan pengembangan program CNC yang akurat. Mereka akan mendapatkan pemahaman yang mendalam tentang simulasi, analisis, dan pemrosesan manufaktur yang modern. Pelatihan dengan Mastercam membantu menciptakan profesional yang siap bersaing dalam industri manufaktur yang kompetitif, mampu menghasilkan produk berkualitas tinggi dengan biaya yang lebih rendah serta waktu produksi yang lebih cepat."
+    },
+    {
+      "title": "Mold Design",
+      "desc":
+        "Pelatihan desain manufaktur menggunakan MoldDesign juga merupakan langkah penting dalam mempersiapkan para profesional untuk berkontribusi dalam industri manufaktur kontemporer. MoldDesign adalah perangkat lunak yang dioptimalkan khusus untuk desain cetakan dan alat cetak dalam proses produksi injeksi plastik. Dalam pelatihan ini, peserta akan mempelajari teknik efisien dalam merancang cetakan, mengoptimalkan desain produk untuk kebutuhan manufaktur, dan memahami proses injeksi plastik secara mendalam. Mereka akan mendapatkan pemahaman yang mendalam tentang beragam material, alat cetak, dan tahap produksi yang relevan. Pelatihan dengan MoldDesign membantu menciptakan profesional yang siap bersaing dalam industri manufaktur yang sangat kompetitif, dengan kemampuan merancang dan memproduksi produk plastik berkualitas tinggi."
+    }
+  ],
+  "welding": [
+    {
+      "title": "Electrical/Shielded Metal Arc Welding Work",
+      "desc":
+        "Electrical Welding Work atau Shielded Metal Arc Welding (SMAW) adalah salah satu metode pengelasan yang umum digunakan dalam industri manufaktur dan konstruksi. Dalam proses ini, seorang pengelas menggunakan..."
+    },
+    {
+      "title": "Spot Welding",
+      "desc":
+        "Pelatihan spot welding adalah program yang dirancang untuk mengajarkan peserta teknik-teknik dasar dan lanjutan dalam metode pengelasan ini. Selama pelatihan, peserta akan mendapatkan pemahaman yang mendalam tentang berbagai aspek spot welding, termasuk penggunaan peralatan, pengaturan parameter, pemilihan elektroda, dan teknik penguatan sambungan. Peserta akan mempelajari cara merancang dan mengatur spot welding dengan presisi tinggi, memastikan kualitas sambungan yang kuat dan tahan lama. Mereka juga akan diberikan pemahaman tentang faktor keselamatan yang penting dalam pengelasan, termasuk penggunaan peralatan pelindung diri yang sesuai. Selama pelatihan, peserta akan memiliki kesempatan untuk berlatih secara langsung dengan peralatan spot welding yang sesungguhnya. Ini akan memungkinkan mereka mengembangkan keterampilan praktis yang diperlukan dalam pengelasan, serta memahami peran penting pengaturan arus, tekanan, dan waktu dalam menghasilkan sambungan yang berkualitas. Hasil dari pelatihan ini adalah para peserta yang siap untuk bekerja dalam industri yang menggunakan spot welding, seperti manufaktur otomotif, elektronik, dan industri logam. Mereka akan mampu menjalankan proses ini dengan tepat, memastikan keamanan, kualitas, dan efisiensi dalam produksi."
+    },
+    {
+      "title": "Argon Welding Work/TIG Welding Skill",
+      "desc":
+        "Pelatihan Argon Welding Work, juga dikenal sebagai TIG (Tungsten Inert Gas) Welding Skill, adalah program intensif yang dirancang untuk mengajarkan peserta teknik pengelasan yang sangat presisi. Metode ini menggunakan elektroda wolfram yang tidak terlarut dalam proses pengelasan, yang dipasangkan dengan gas inert seperti argon untuk melindungi area kerja dari kontaminasi atmosfer. Selama pelatihan, peserta akan memahami cara mengendalikan arus, tekanan gas, dan suhu dengan presisi tinggi, sehingga mereka dapat mencapai sambungan logam yang sangat kuat dan berkualitas tinggi.Peserta akan berlatih dengan berbagai jenis logam dan ketebalan material, menguasai teknik penyambungan, dan mengatasi berbagai tantangan yang mungkin muncul selama proses welding. Pelatihan ini juga mencakup pemahaman yang mendalam tentang keselamatan kerja, pemeliharaan peralatan, dan pemilihan material yang sesuai. Hasilnya adalah profesional welding yang siap bekerja di berbagai industri, termasuk manufaktur, konstruksi, dan perbaikan, dengan kemampuan untuk menghasilkan sambungan logam berkualitas tinggi yang sesuai dengan standar tertinggi."
+    },
+    {
+      "title": "CO2 Welding Work/MAG Welding Skill",
+      "desc":
+        "Pengelasan CO2, juga dikenal sebagai MIG (Metal Inert Gas) welding, adalah metode pengelasan yang memanfaatkan gas karbon dioksida (CO2) sebagai lapisan pelindung saat menggabungkan material logam. Proses ini dilakukan dengan menggunakan elektroda berlapis kawat yang diberikan melalui aliran gas CO2. Saat busur listrik terbentuk antara elektroda dan logam kerja, kawat berlapis meleleh dan menyatu dengan material logam dasar, membentuk sambungan yang kuat. Keunggulan utama dari pengelasan CO2 adalah kecepatan dan produktivitasnya. Ini memungkinkan pengelas untuk melakukan pengelasan dalam satu arah yang kontinu tanpa perlu mengganti elektroda secara teratur. Hasilnya adalah pengelasan yang cepat, efisien, dan cocok untuk produksi massal. Selain itu, pengelasan MIG menghasilkan sambungan yang kuat dan tahan lama dengan penampilan yang estetis. Proses MIG welding sangat serbaguna dan dapat digunakan untuk mengelas berbagai jenis logam, termasuk baja, aluminium, dan stainless steel. Hal ini membuatnya ideal untuk berbagai aplikasi, mulai dari pembuatan kendaraan hingga konstruksi logam dan manufaktur umum."
+    }
+  ],
+  "otomasi": [
+    {
+      "title": "Logic Gate",
+      "desc":
+        "Gate logika adalah komponen kunci dalam otomasi manufaktur yang memainkan peran vital dalam pengambilan keputusan dan pengendalian dalam sistem otomatis. Ini mencakup berbagai jenis gate logika seperti AND, OR, NOT, dan NAND, yang digunakan untuk mengolah sinyal dan input dari sensor, perangkat kontrol, dan sistem lainnya. Gate logika memungkinkan pengaturan fungsi-fungsi yang berbeda dalam proses produksi otomatis. Misalnya, dengan menggunakan gerbang logika, Anda dapat mengatur bahwa mesin hanya akan beroperasi jika beberapa kondisi tertentu terpenuhi, atau Anda dapat membuat logika untuk menghindari tabrakan antara robot dan peralatan lain. Dengan penggunaan yang bijak, gate logika meningkatkan efisiensi, keamanan, dan presisi dalam lingkungan manufaktur otomatis."
+    },
+    {
+      "title": "Programmable Logic Controller (PLC)",
+      "desc":
+        "Programmable Logic Controller (PLC) adalah komponen penting dalam otomasi manufaktur. Ini adalah perangkat keras dan perangkat lunak yang digunakan untuk mengontrol dan mengelola berbagai proses dalam lingkungan manufaktur. PLC dapat diprogram untuk mengambil keputusan berdasarkan input dari sensor dan sistem kontrol, serta mengendalikan output ke perangkat seperti mesin, motor, atau robot. Kelebihan PLC termasuk fleksibilitas, kemudahan pemrograman, dan kemampuan untuk memantau dan mendeteksi gangguan dalam proses produksi secara real-time. Ini memungkinkan produsen untuk merespons perubahan permintaan dan kondisi produksi dengan cepat, meningkatkan efisiensi, kualitas, dan keamanan produksi secara keseluruhan. PLC adalah tulang punggung otomasi dalam berbagai industri manufaktur modern."
+    },
+    {
+      "title": "Mikrokontroler",
+      "desc":
+        "Mikrokontroler adalah perangkat elektronik penting dalam otomasi manufaktur. Ini adalah komponen berbasis mikroprosesor yang mengendalikan berbagai aspek produksi dalam lingkungan pabrik. Mikrokontroler dilengkapi dengan perangkat keras dan perangkat lunak yang dapat diprogram untuk memonitor sensor, mengumpulkan data, mengolah informasi, dan mengirimkan perintah ke peralatan produksi seperti robot, mesin, dan sistem transportasi. Keunggulan utama mikrokontroler adalah kecepatan, presisi, dan fleksibilitas dalam menjalankan tugas-tugas kompleks dalam otomasi manufaktur. Mereka memungkinkan produksi yang efisien dan responsif terhadap perubahan permintaan. Dalam era industri 4.0, mikrokontroler juga memainkan peran kunci dalam menghubungkan peralatan dengan Internet of Things (IoT) untuk mendukung pemantauan jarak jauh, pemeliharaan prediktif, dan pengambilan keputusan yang lebih cerdas. Dengan demikian, mikrokontroler telah menjadi tulang punggung teknologi otomasi yang mendorong inovasi dan efisiensi dalam dunia manufaktur modern."
+    },
+    {
+      "title": "Hidrolik dan Pneumatik",
+      "desc":
+        "Sistem pneumatik dan hidrolik adalah dua komponen penting dalam otomasi manufaktur yang menggunakan fluida (udara atau cairan) untuk menggerakkan dan mengendalikan peralatan. Dalam pneumatik, udara bertekanan digunakan untuk menggerakkan silinder, motor, dan komponen lainnya. Ini adalah solusi yang cepat, hemat biaya, dan sering digunakan dalam aplikasi dengan gerakan linier. Di sisi lain, sistem hidrolik menggunakan cairan (biasanya minyak) di bawah tekanan tinggi untuk menggerakkan komponen mesin, seperti piston dan motor hidrolik. Hidrolik memberikan kekuatan besar dan presisi dalam aplikasi yang memerlukan daya dorong atau putaran yang tinggi. Kedua sistem ini memungkinkan otomasi manufaktur yang efisien, terutama dalam menggerakkan mesin berat atau menjalankan peralatan yang memerlukan tekanan tinggi. Keterampilan dalam merancang, memasang, dan memelihara sistem pneumatik dan hidrolik sangat penting dalam industri manufaktur modern."
+    }
+  ],
+  "uwelding": [
+    {
+      "title": "Electrical/Shielded Arc Underwater Welding Work",
+      "desc":
+        "Pengelasan listrik bawah air, atau Shielded Arc Welding Underwater, adalah teknik pengelasan yang dilakukan dalam lingkungan bawah air. Ini melibatkan penggunaan elektroda yang dilindungi oleh mantel yang menciptakan..."
+    },
+    {
+      "title": "Pull Welding",
+      "desc":
+        "Pull welding adalah metode pengelasan yang melibatkan penggerakan elektroda pengelasan menjauhi titik pengelasan daripada mendekatinya, seperti yang terjadi dalam pengelasan konvensional. Teknik ini sering digunakan dalam situasi di mana pengelasan linier atau sambungan panjang diperlukan. Dalam pull welding, busur pengelasan dimulai pada titik awal dan ditarik sepanjang sambungan yang akan dielas. Ini memungkinkan operator untuk menjaga kendali yang lebih baik atas aliran logam pengelasan, membentuk sambungan yang lebih konsisten dan estetis. Keuntungan utama dari pull welding adalah kemampuannya untuk mengelas sambungan panjang dengan lebih efisien daripada metode pengelasan konvensional. Ini sering digunakan dalam proyek konstruksi seperti menggabungkan pipa, rel kereta api, atau logam struktural yang panjangnya melebihi panjang elektroda pengelasan. Namun, pull welding memerlukan keterampilan khusus dalam mengendalikan busur pengelasan dan memantau prosesnya secara hati-hati. Kecepatan dan arah pergerakan elektroda harus diatur dengan cermat agar hasil pengelasan tetap berkualitas tinggi. Selain itu, pull welding juga dapat digunakan dalam pengelasan bawah air, di mana kondisi lingkungan yang berbeda memerlukan pendekatan yang berbeda dalam pengelasan logam di bawah air. Dalam konteks ini, operator menggunakan peralatan khusus dan teknik yang sesuai untuk mencapai hasil pengelasan yang kuat dan tahan lama di dalam air."
+    },
+    {
+      "title": "Joint Welding",
+      "desc":
+        "Joint welding adalah proses pengelasan yang digunakan untuk menggabungkan dua atau lebih komponen logam yang saling berhubungan, yang disebut joint, sehingga membentuk struktur yang padat dan kuat. Ini adalah komponen penting dalam konstruksi dan manufaktur. Prosesnya melibatkan persiapan permukaan logam, penempatan komponen sesuai desain, pembuatan busur pengelasan dengan sumber panas, dan pendinginan setelah pengelasan selesai. Jenis joint welding bervariasi sesuai dengan jenis dan bentuk sambungan, seperti butt joint, lap joint, corner joint, dan tee joint. Keberhasilan joint welding memerlukan pemahaman yang mendalam tentang bahan logam, parameter pengelasan yang tepat, dan keterampilan operator yang terampil untuk menciptakan sambungan yang kuat dan tahan lama."
+    },
+    {
+      "title": "1F Welding",
+      "desc":
+        "1F welding adalah istilah dalam pengelasan yang merujuk pada posisi pengelasan tertentu. Angka 1 mengindikasikan bahwa pengelasan ini dilakukan pada permukaan datar atau horizontal. Dalam posisi ini, logam cair dari elektroda pengelasan akan mengalir secara horizontal dan membentuk sambungan antara dua komponen logam yang datar atau mendatar. 1F welding biasanya digunakan dalam pengelasan pelat atau logam dengan orientasi datar, seperti pengelasan pada lembaran logam atau bagian permukaan yang sejajar dengan lantai. Pemahaman yang baik tentang parameter pengelasan dan teknik pengelasan yang benar penting untuk mencapai hasil pengelasan yang berkualitas dan kuat dalam posisi 1F."
+    },
+    {
+      "title": "2F Welding",
+      "desc":
+        "2F welding adalah istilah dalam pengelasan yang merujuk pada posisi pengelasan tertentu. Angka 2 menunjukkan bahwa pengelasan ini dilakukan pada permukaan datar atau horizontal, dan huruf F menunjukkan bahwa..."
+    }
+  ],
+  "ogsci": [
+    {
+      "title": "Pelatihan Electrikal",
+      "desc":
+        "Pelatihan ini mencakup analisis risiko dan penilaian, standar isolasi energi, teknik dan praktik terbaik dalam pemeliharaan peralatan listrik, pengujian listrik lanjutan, dan lain-lain. Pelatihan ini juga termasuk sertifikasi CompEx..."
+    },
+    {
+      "title": "Pelatihan Instrumen",
+      "desc":
+        "Pelatihan ini mencakup analisis risiko dan penilaian, standar isolasi energi, teknik dan praktik terbaik dalam pemeliharaan instrumen, pengujian instrumen, pengukuran suhu, tekanan, aliran, dan tingkat..."
+    },
+    {
+      "title": "Pelatihan Mekanikal",
+      "desc":
+        "Pelatihan ini mencakup analisis risiko dan penilaian, standar isolasi energi, teknik dan praktik terbaik dalam pemeliharaan mesin, pompa, kipas, sistem transmisi daya, dan lain-lain. Pelatihan ini juga termasuk pelatihan tentang teknologi katup, teknik perbaikan dan pemeliharaan, serta pemantauan kondisi getaran. Pelatihan mekanikal dalam industri minyak dan gas adalah program yang dirancang untuk mengembangkan pemahaman dan keterampilan teknis yang diperlukan dalam operasi, perawatan, dan perbaikan peralatan mekanikal yang kompleks. Ini mencakup pemeliharaan mesin, peralatan produksi, sistem pemompaan, dan perawatan fasilitas mekanis. Peserta akan mempelajari prinsip-prinsip desain, pemilihan bahan, pengujian, dan keselamatan dalam lingkungan kerja yang seringkali berbahaya. Pelatihan ini juga mencakup pemahaman terhadap peraturan dan regulasi industri minyak dan gas. Keahlian ini penting untuk menjaga operasi yang efisien dan aman serta mendukung pertumbuhan karir dalam sektor ini."
+    },
+    {
+      "title": "Pelatihan Operator Proses",
+      "desc":
+        "Pelatihan ini mencakup analisis risiko dan penilaian, standar isolasi energi, klasifikasi daerah berbahaya, pengukuran suhu, tekanan, aliran, dan tingkat, serta teknik kontrol proses. Pelatihan ini juga termasuk pelatihan tentang pengolahan air, keselamatan dan kesehatan kerja, dan lain-lain. Program yang mengajarkan peserta cara mengoperasikan dan mengawasi peralatan dan proses dalam industri minyak dan gas. Ini mencakup pengendalian produksi minyak, pemantauan tekanan, suhu, dan aliran, serta menjalankan peralatan produksi dan pemrosesan minyak dan gas. Peserta juga diajarkan tentang keamanan, pemecahan masalah, dan tindakan darurat. Pelatihan ini penting untuk memastikan operasi yang efisien dan aman dalam industri ini serta untuk persiapan karir dalam peran operator proses."
+    },
+    {
+      "title": "Pelatihan Kesehatan dan Keselamatan Lingkungan",
+      "desc":
+        "Pelatihan ini mencakup sertifikasi untuk pekerjaan dalam lingkungan yang berbahaya, seperti sertifikasi gas H2S, sertifikasi Pengawas K3 Migas, dan lain-lain. Pelatihan ini juga termasuk pelatihan tentang penilaian risiko, deteksi kebakaran dan gas, dan lain-lain. Kesehatan dan Keselamatan Lingkungan (K3L) dalam industri minyak dan gas adalah program yang mengajarkan peserta tentang praktik keselamatan, penanganan limbah, dan pemantauan dampak lingkungan dalam operasi minyak dan gas. Ini mencakup pemahaman peraturan, prosedur darurat, dan tindakan pencegahan untuk melindungi pekerja dan lingkungan. Pelatihan K3L ini krusial dalam menjaga lingkungan yang berkelanjutan sambil meminimalkan risiko cedera dan kerusakan dalam operasi industri minyak dan gas."
+    },
+    {
+      "title": "Pelatihan Konstruksi",
+      "desc":
+        "Pelatihan ini mencakup sertifikasi untuk pekerjaan dalam lingkungan yang berbahaya, seperti sertifikasi gas H2S, sertifikasi Pengawas K3 Migas, dan lain-lain. Pelatihan ini juga termasuk pelatihan tentang penilaian risiko, deteksi kebakaran dan gas, dan lain-lain. Kesehatan dan Keselamatan Lingkungan (K3L) dalam industri minyak dan gas adalah program yang mengajarkan peserta tentang praktik keselamatan, penanganan limbah, dan pemantauan dampak lingkungan dalam operasi minyak dan gas. Ini mencakup pemahaman peraturan, prosedur darurat, dan tindakan pencegahan untuk melindungi pekerja dan lingkungan. Pelatihan K3L ini krusial dalam menjaga lingkungan yang berkelanjutan sambil meminimalkan risiko cedera dan kerusakan dalam operasi industri minyak dan gas."
+    }
+  ]
+}

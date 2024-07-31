@@ -1,0 +1,295 @@
+{
+  "cam": [
+    {
+      "title": "Production and Quality Control",
+      "list": [
+        "Supervisor Produksi",
+        "Pemeriksa Kontrol Kualitas",
+        "Quality Assurance Engineer",
+        "Manufacturing Engineer",
+        "Manager Kualitas",
+        "Manager Perbaikan Berkelanjutan",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Process Planner",
+      "list": [
+        "Perencana Produksi",
+        "Insinyur Manufaktur",
+        "Perencana Kontrol Kualitas",
+        "Perencana Rantai Pasokan",
+        "Perencana Logistik",
+        "Perencana Pemeliharaan",
+        "Analisis Perbaikan Proses",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Research and Development",
+      "list": [
+        "Spesialis Learn Manufacturing",
+        "Manager Proyek",
+        "Analisis Kualitas",
+        "Manufacturing Engineer",
+        "Manager Kualitas",
+        "Manager Perbaikan Berkelanjutan",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Operator Mesin Manufaktur",
+      "list": [
+        "Milling Machine Operator",
+        "Lathe Machine Operator",
+        "Grinding  Machine Operator",
+        "Drilling Machine Operator",
+        "CNC Programmer",
+        "Dan lain-lain.."
+      ]
+    }
+  ],
+  "cad": [
+    {
+      "title": "Product Planner",
+      "list": [
+        "Perencana Produksi",
+        "Analisis Desain Produk",
+        "Pemahaman Teknis",
+        "Optimasi Biaya",
+        "Manajemen Kualitas",
+        "Penggunaan Perangkat Lunak",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Operator Maintenance",
+      "list": [
+        "Pemelihara Peralatan",
+        "Pemrograman Mesin",
+        "Pemeliharaan Preventif",
+        "Troubleshooting",
+        "Kontrol Kualitas",
+        "Manajemen Persediaan Suku Cadang",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Research and Development",
+      "list": [
+        "Penelitian Produk Baru",
+        "Perancangan Produk",
+        "Pemodelan 3D",
+        "Prototyping",
+        "Pemantauan Kualitas",
+        "Penelitian Pasca-Produksi",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Manufacturing Project manager",
+      "list": [
+        "Pemahaman Teknis",
+        "Penggunaan Perangkat Lunak",
+        "Pemikiran Strategis",
+        "Pengembangan Produk",
+        "Perencanaan Produk",
+        "Dan lain-lain.."
+      ]
+    }
+  ],
+  "welding": [
+    {
+      "title": "Welder Pertambangan",
+      "list": [
+        "Pengelasan Konstruksi",
+        "Pemeliharaan Catatan",
+        "Kontrol Kualitas",
+        "Pengelasan Pipa",
+        "Reparasi Darurat",
+        "Pengelasan Struktur Pertambangan",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Welder Engineer",
+      "list": [
+        "Seleksi Material",
+        "Pengujian Metal",
+        "Perencana Kualitas",
+        "Kontrol Biaya",
+        "Konsultasi Teknis",
+        "Audit Kualitas",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Welder Konstruksi Kapal",
+      "list": [
+        "Pemeliharaan Kapal",
+        "Perancangan Produk",
+        "Pemeliharaan Perangkat",
+        "Pemahaman Rencana Kapal",
+        "Pemantauan Kualitas",
+        "Pengelasan Struktur Kapal",
+        "Mekanik",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Fabricator Welder",
+      "list": [
+        "Pembuatan Komponen",
+        "Pengukuran dan Pemotongan",
+        "Pengelasan",
+        "Pengecatan",
+        "Perakitan",
+        "Dan lain-lain.."
+      ]
+    }
+  ],
+  "otomasi": [
+    {
+      "title": "Instrument Engineer",
+      "list": [
+        "Pemrograman PLC/DCS",
+        "Integrasi Teknologi Terbaru",
+        "Pemilihan Instrumen",
+        "Pemecahan Masalah",
+        "Manajemen Proyek",
+        "Perencanaan Sistem Kontrol",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Automation Engineer",
+      "list": [
+        "Sistem SCADA",
+        "Pemrograman HMI",
+        "Pengujian dan Validitas",
+        "Integrasi Mesin dan Robot",
+        "Pemrograman PLC/DCS",
+        "Manajemen Energi",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Maintenance Engineer",
+      "list": [
+        "Pemeliharaan Preventif",
+        "Troubleshooting",
+        "Penggantian Komponen",
+        "Kalibrasi",
+        "Manajemen Inventaris",
+        "Pemantauan Energi",
+        "Pengujian Fungsional",
+        "Dan lain-lain.."
+      ]
+    }
+  ],
+  "uwelding": [
+    {
+      "title": "Rig Welder",
+      "list": [
+        "Perbaikan Rig",
+        "Pengelasan Pipa",
+        "Perawatan Rig",
+        "Perawatan Pipa",
+        "Inspector",
+        "Memastikan Standar Keselamatan dan Kualitas",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Quality Assurance Inspector",
+      "list": [
+        "Inspeksi Struktur Kapal",
+        "Pengawas Konstruksi",
+        "Pemeriksaan Las",
+        "Pemeriksaan Struktur",
+        "Evaluasi Teknis Welding",
+        "Audit Kualitas",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Certified Welding Inspector",
+      "list": [
+        "Memantau Kualitas",
+        "Menerbitkan Verifikasi",
+        "Pemeliharaan Catatan",
+        "Inspeksi Visual",
+        "Pemantauan Standar",
+        "Rekomendasi Perbaikan",
+        "Uji Pengelasan",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Marine Pipefitter",
+      "list": [
+        "Instalasi Pipa",
+        "Perencanaan Konstruksi",
+        "Pemasangan Fitting",
+        "Pemasangan Alat",
+        "Perawatan Pipa",
+        "Dan lain-lain.."
+      ]
+    }
+  ],
+  "ogsci": [
+    {
+      "title": "Operator Proses",
+      "list": [
+        "Mengendalikan Aliran",
+        "Memonitor Kualitas",
+        "Perawatan Preventif",
+        "Teknisi",
+        "Inspector",
+        "Eksplorasi",
+        "Perencanaan Sumur",
+        "Operasi Pengeboran",
+        "Pemantauan Produksi",
+        "Evaluasi Teknologi",
+        "Menjalankan peralatan, seperti pompa & kompresor",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Welder",
+      "list": [
+        "Pengelasan Struktur",
+        "Perbaikan Pipa",
+        "Pengelasan Bawah Air",
+        "Pemeliharaan Peralatan",
+        "Pengujian Kualitas",
+        "Kolaborasi",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Instrumentation Technician",
+      "list": [
+        "Kalibrasi",
+        "Instalasi",
+        "Pemantauan Peforma",
+        "Pengujian Keselamatan",
+        "Pemahaman PLC",
+        "Perbaikan dan Troubleshooting",
+        "Kepemimpinan Keselamatan",
+        "Dan lain-lain.."
+      ]
+    },
+    {
+      "title": "Operator Mesin Manufaktur",
+      "list": [
+        "Milling Machine Operator",
+        "Lathe Machine Operator",
+        "Grinding  Machine Operator",
+        "Drilling Machine Operator",
+        "CNC Programmer",
+        "Dan lain-lain.."
+      ]
+    }
+  ]
+}

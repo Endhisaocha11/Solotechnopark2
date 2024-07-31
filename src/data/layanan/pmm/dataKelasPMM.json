@@ -1,0 +1,54 @@
+{
+  "basic": [
+    {
+      "title": "Mekanik Manufaktur",
+      "duration": "Durasi : 9 Bulan",
+      "desc":
+        "Pelatihan keterampilan bidang permesinan manufacturing untuk mengolah bahan baku menjadi produk jadi maupun setengah jadi (part) dengan output SDM yang kompeten yang mudah terserap di dunia industri."
+    },
+    {
+      "title": "Desain Manufaktur",
+      "duration": "Durasi : 9 Bulan",
+      "desc":
+        "Pelatihan keterampilan menggambar rancang bangun suatu produk yang memiliki presisi tinggi yang dikerjakan secara komputerisasi, dengan output SDM yang kompeten yang mudah terserap di dunia industri."
+    },
+    {
+      "title": "Welding Manufaktur",
+      "duration": "Durasi : 9 Bulan",
+      "desc":
+        "Pelatihan keterampilan pengelasan yang mencakup pengetahuan dasar bahan logam, proses metalurgi, teknik serta teknologi pengelasan dengan output SDM yang kompeten yang mudah terserap di dunia industri."
+    },
+    {
+      "title": "Otomasi Manufaktur",
+      "duration": "Durasi : 9 Bulan",
+      "desc":
+        "Pelatihan keterampilan rancang bangun perangkat dan sistem kontrol mencakup materi dasar dengan tujuan operasional otomatis melalui komputerisasi, dengan output SDM yang kompeten yang mudah terserap di dunia industri."
+    }
+  ],
+  "specialist": [
+    {
+      "title": "Design and CNC Specialist Training",
+      "duration": "Durasi : 3,5 Bulan",
+      "desc":
+        "<descripsi>."
+    },
+    {
+      "title": "General Welding",
+      "duration": "Durasi : 2,5 Bulan",
+      "desc":
+        "<desc>."
+    },
+    {
+      "title": "Underwater Welding",
+      "duration": "Durasi : 2 Bulan & 2 Minggu",
+      "desc":
+        "<desc>."
+    },
+    {
+      "title": "Otomasi",
+      "duration": "Durasi : 2 Bulan",
+      "desc":
+        "<desc>."
+    }
+  ]
+}

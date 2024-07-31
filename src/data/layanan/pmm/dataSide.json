@@ -1,0 +1,33 @@
+{
+  "pmm": [
+    {
+      "menu": "Benefit",
+      "path": "benefit",
+      "submenu": [
+        "Training Kit",
+        "Modul Pelatihan",
+        "Sertifikat Kompetensi"
+      ]
+    },
+    {
+      "menu": "Kelas Basic",
+      "path": "basic",
+      "submenu": [
+        "Mekanik Manufaktur (9 Bulan)",
+        "Desain Manufaktur (9 Bulan)",
+        "Welding Manufaktur (9 Bulan)",
+        "Otomasi Manufaktur (9 Bulan)"
+      ]
+    },
+    {
+      "menu": "Kelas Specialist",
+      "path": "specialist",
+      "submenu": [
+        "Design and CNC Specialist Training (3,5 Bulan)",
+        "General Welding (2,5 Bulan)",
+        "Underwater Welding (2 Bulan & 2 Minggu)",
+        "Otomasi (1 Bulan)"
+      ]
+    }
+  ]
+}

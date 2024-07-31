@@ -1,0 +1,224 @@
+{
+  "cam": [
+    {
+      "title": "Bimbingan",
+      "desc":
+        "Bimbingan dari mentor yang berpengalaman, meliputi pemahaman dasar mekanika, proses manufaktur, dan keahlian teknis seperti permesinan dan pengelasan. Ini juga mencakup aspek keselamatan kerja, pengukuran kualitas, dan teknologi canggih seperti CNC machining. Pemeliharaan mesin dan perkembangan keterampilan soft skills juga merupakan bagian integral dari pelatihan ini untuk mencapai keberhasilan dalam lingkungan manufaktur yang dinamis."
+    },
+    {
+      "title": "Experience",
+      "desc":
+        "Memberikan pengalaman dalam pelatihan didunia Manufaktur, berinteraksi dengan workteam dan mentor-mentor dengan pemahaman yang mudah difahami, sehingga dapat menjadi SDM yang unggul."
+    },
+    {
+      "title": "Workshop",
+      "desc":
+        "Workshop yang menghadirkan narasumber-narasumber yang kompeten, sehingga memberikan benefit bagi peserta pelatihan, mulai dari peningkatan softskill hingga hardskill."
+    },
+    {
+      "title": "Modul Pembelajaran",
+      "desc":
+        "Modul dari pembimbing yang kompeten dan relevan dengan dunia industri, sehingga mudah difahami dan dapat di implementasikan antara teori dan praktiknya, mulai dari pemahaman dasar hingga bagaimana menguasai teknik untuk menjadi mekanik manufaktur yang profesional."
+    },
+    {
+      "title": "Pelatihan Softskill",
+      "desc":
+        "Membekali individu dengan keterampilan komunikasi, kerja tim, pemecahan masalah, manajemen waktu, dan adaptasi dalam lingkungan kerja yang dinamis. Ini menghasilkan mekanik yang lebih efisien, mampu berkolaborasi, dan menghadapi perubahan industri dengan lebih baik."
+    },
+    {
+      "title": "Sertifikat Kompetensi",
+      "desc":
+        "Sertifikat kompetensi yang dapat digunakan untuk bekerja di industri Manufaktur."
+    },
+    {
+      "title": "Seragam",
+      "desc":
+        "Dalam pelatihan peserta akan mendapatkan satu set seragam, yaitu Baju Praktek, Kacamata Safety, Sepatu Safety."
+    }
+  ],
+  "cad": [
+    {
+      "title": "Bimbingan",
+      "desc":
+        "Bimbingan desain manufaktur adalah panduan yang membantu dalam merancang produk dengan fokus pada efisiensi produksi, penggunaan bahan yang optimal, dan pemahaman tentang proses manufaktur. Ini mencakup strategi untuk mengurangi biaya produksi, meningkatkan kualitas produk, dan meminimalkan waktu produksi. Bimbingan semacam itu penting dalam industri manufaktur modern."
+    },
+    {
+      "title": "Experience",
+      "desc":
+        "Memberikan pengalaman dalam pelatihan didunia Manufaktur, berinteraksi dengan workteam dan mentor-mentor dengan pemahaman yang mudah difahami, sehingga dapat menjadi SDM yang unggul."
+    },
+    {
+      "title": "Workshop",
+      "desc":
+        "Pelatihan praktis yang mengajarkan teknik dan konsep terkait desain produk yang mudah diproduksi secara efisien dalam manufaktur"
+    },
+    {
+      "title": "Modul Pembelajaran",
+      "desc":
+        "Modul dari pembimbing yang kompeten dan relevan dengan dunia industri, sehingga mudah difahami dan dapat di implementasikan antara teori dan praktiknya, mulai dari pemahaman dasar hingga bagaimana menguasai teknik untuk menjadi desainer manufaktur yang profesional."
+    },
+    {
+      "title": "Pelatihan Softskill",
+      "desc":
+        "Membekali individu dengan keterampilan komunikasi, kerja tim, pemecahan masalah, manajemen waktu, dan adaptasi dalam lingkungan kerja yang dinamis. Ini menghasilkan mekanik yang lebih efisien, mampu berkolaborasi, dan menghadapi perubahan industri dengan lebih baik."
+    },
+    {
+      "title": "Sertifikat Kompetensi",
+      "desc":
+        "Sertifikat kompetensi yang dapat digunakan untuk bekerja di industri Manufaktur."
+    },
+    {
+      "title": "Seragam",
+      "desc":
+        "Dalam pelatihan peserta akan mendapatkan satu set seragam, yaitu Baju Praktek, Kacamata Safety, Sepatu Safety."
+    }
+  ],
+  "welding": [
+    {
+      "title": "Bimbingan",
+      "desc":
+        "Bimbingan pelatihan manufaktur welding adalah sumber yang sangat berguna bagi individu yang ingin mempersiapkan diri untuk dunia kerja. Dalam pelatihan ini, peserta akan mendapatkan pemahaman mendalam tentang berbagai teknik pengelasan, penggunaan peralatan welding yang tepat, dan prinsip keamanan kerja. Mereka akan belajar mengelas berbagai jenis material logam dengan tingkat keahlian yang tinggi, mempersiapkan mereka untuk berkarier di berbagai sektor industri yang membutuhkan keterampilan welding yang kompeten. Ini adalah langkah penting menuju sukses dalam dunia kerja yang kompetitif dan berkembang pesat."
+    },
+    {
+      "title": "Experience",
+      "desc":
+        "Memberikan pengalaman dalam pelatihan didunia Welding Manufaktur, berinteraksi dengan workteam dan mentor-mentor dengan pemahaman yang mudah difahami, sehingga dapat menjadi SDM yang unggul."
+    },
+    {
+      "title": "Workshop",
+      "desc":
+        "Workshop welding manufaktur meningkatkan keterampilan pengelasan, memperbaiki produk, dan membuka peluang pekerjaan di industri manufaktur."
+    },
+    {
+      "title": "Modul Pembelajaran",
+      "desc":
+        "Modul dari pembimbing yang kompeten dan relevan dengan dunia industri, sehingga mudah difahami dan dapat di implementasikan antara teori dan praktiknya, mulai dari pemahaman dasar hingga bagaimana menguasai teknik untuk menjadi Welding manufaktur yang profesional."
+    },
+    {
+      "title": "Pelatihan Softskill",
+      "desc":
+        "Membekali individu dengan keterampilan komunikasi, kerja tim, pemecahan masalah, manajemen waktu, dan adaptasi dalam lingkungan kerja yang dinamis. Ini menghasilkan mekanik yang lebih efisien, mampu berkolaborasi, dan menghadapi perubahan industri dengan lebih baik."
+    },
+    {
+      "title": "Sertifikat Kompetensi",
+      "desc":
+        "Sertifikat kompetensi yang dapat digunakan untuk bekerja di industri Manufaktur."
+    },
+    {
+      "title": "Seragam",
+      "desc":
+        "Dalam pelatihan peserta akan mendapatkan satu set seragam, yaitu Baju Praktek, Kacamata Safety, Sepatu Safety."
+    }
+  ],
+  "otomasi": [
+    {
+      "title": "Bimbingan",
+      "desc":
+        "Bimbingan pelatihan otomasi manufaktur adalah program yang memberikan panduan dan keterampilan dalam mengotomatisasi proses-produksi di industri manufaktur. Ini mencakup pengenalan teknologi otomasi, seperti robotik, mesin canggih, dan perangkat lunak terkait, serta cara mengintegrasikannya ke dalam lingkungan manufaktur. Pelatihan ini mengajarkan strategi efektif untuk mengoptimalkan produksi, meningkatkan efisiensi, mengurangi biaya tenaga kerja, dan memastikan kualitas yang konsisten. Lulusan pelatihan ini dapat membantu perusahaan untuk menjadi lebih kompetitif dan adaptif di era manufaktur yang terus berkembang."
+    },
+    {
+      "title": "Experience",
+      "desc":
+        "Memberikan pengalaman dalam pelatihan didunia Otomasi Manufaktur, berinteraksi dengan workteam dan mentor-mentor dengan pemahaman yang mudah difahami, sehingga dapat menjadi SDM yang unggul."
+    },
+    {
+      "title": "Workshop",
+      "desc":
+        "Belajar tentang penggunaan robot, sensor, perangkat lunak otomasi, dan sistem kontrol untuk meningkatkan produktivitas dan efisiensi produksi. Workshop ini memberikan wawasan praktis tentang desain, integrasi, dan pemeliharaan sistem otomasi, serta cara mengoptimalkan proses manufaktur."
+    },
+    {
+      "title": "Modul Pembelajaran",
+      "desc":
+        "Modul dari pembimbing yang kompeten dan relevan dengan dunia industri, sehingga mudah difahami dan dapat di implementasikan antara teori dan praktiknya, mulai dari pemahaman dasar hingga bagaimana menguasai teknik untuk menjadi mekanik manufaktur yang profesional."
+    },
+    {
+      "title": "Pelatihan Softskill",
+      "desc":
+        "Membekali individu dengan keterampilan komunikasi, kerja tim, pemecahan masalah, manajemen waktu, dan adaptasi dalam lingkungan kerja yang dinamis. Ini menghasilkan mekanik yang lebih efisien, mampu berkolaborasi, dan menghadapi perubahan industri dengan lebih baik."
+    },
+    {
+      "title": "Sertifikat Kompetensi",
+      "desc":
+        "Sertifikat kompetensi yang dapat digunakan untuk bekerja di industri Manufaktur."
+    },
+    {
+      "title": "Seragam",
+      "desc":
+        "Dalam pelatihan peserta akan mendapatkan satu set seragam, yaitu Baju Praktek, Kacamata Safety, Sepatu Safety."
+    }
+  ],
+  "uwelding": [
+    {
+      "title": "Bimbingan",
+      "desc":
+        "Bimbingan dari mentor yang telah memiliki banyak pengalaman di bidang Underwater Wet Welding, peserta  Selanjutnya, akan belajar mengatasi tantangan lingkungan seperti tekanan air, visibilitas rendah, dan kestabilan. Fokus pada keselamatan sangat penting, termasuk pemahaman tentang peralatan penyelamaman dan prosedur darurat. Pelatihan juga mencakup penggunaan alat pengelasan, teknik elektroda, dan identifikasi masalah yang mungkin muncul selama proses pengelasan."
+    },
+    {
+      "title": "Experience",
+      "desc":
+        "Memberikan pengalaman dalam pelatihan didunia Underwater Wet Welding, berinteraksi dengan workteam dan mentor-mentor dengan pemahaman yang mudah difahami, sehingga dapat menjadi SDM yang unggul."
+    },
+    {
+      "title": "Workshop",
+      "desc":
+        "Worshop Praktek dan kurikulum yang akan di berikan secara lengkap dan detail, sehingga peserta benar-benar siap bekerja setelah selesai masa pelatihan, "
+    },
+    {
+      "title": "Pelatihan Softskill",
+      "desc":
+        "Membekali individu dengan keterampilan komunikasi, kerja tim, pemecahan masalah, manajemen waktu, dan adaptasi dalam lingkungan kerja yang dinamis. Ini menghasilkan mekanik yang lebih efisien, mampu berkolaborasi, dan menghadapi perubahan industri dengan lebih baik."
+    },
+    {
+      "title": "Sertifikat Kompetensi",
+      "desc":
+        "Sertifikat kompetensi yang dapat digunakan untuk bekerja di industri Manufaktur."
+    },
+    {
+      "title": "Makan Siang",
+      "desc":
+        "Untuk memberikan pembelajaran yang maksimal dan efesiensi waktu, maka dalam pelatihan ini peserta akan mendapatkan makan siang, sehingga tidak perlu mengganti baju dan pergi untuk membeli makanan ketika istirahat."
+    },
+    {
+      "title": "Seragam",
+      "desc":
+        "Dalam pelatihan peserta akan mendapatkan satu set seragam, yaitu Seragam (2 pcs), Safety Shoes (2 pcs), Celana Renang (1 pcs), Kacamata Safety (1 pcs), Sarung Tangan Karet (2 pcs), Peralatan Pembersih."
+    }
+  ],
+  "ogsci": [
+    {
+      "title": "Bimbingan",
+      "desc":
+        "Bimbingan dalam pelatihan Oil and Gas Skills adalah pengarahan intensif yang membantu individu mengembangkan keahlian teknis dan pemahaman mendalam tentang industri minyak dan gas. Ini mencakup pelajaran tentang eksplorasi, produksi, keselamatan, serta pemeliharaan fasilitas energi. Bimbingan ini membantu peserta mempersiapkan diri untuk karir yang sukses dalam industri ini, memberikan wawasan praktis dan pengetahuan khusus yang dibutuhkan."
+    },
+    {
+      "title": "Experience",
+      "desc":
+        "Memberikan pengalaman dalam pelatihan Industri minyak dan gas, berinteraksi dengan workteam dan mentor-mentor dengan pemahaman yang mudah difahami, sehingga dapat menjadi SDM yang unggul."
+    },
+    {
+      "title": "Workshop",
+      "desc":
+        "Memberi pengalaman belajar praktis yang memberikan peserta kesempatan untuk berlatih dan mengembangkan keterampilan khusus yang diperlukan dalam industri minyak dan gas. Dalam lingkungan simulasi atau nyata, peserta akan belajar tentang peralatan, teknologi, dan praktik terkini dalam eksplorasi, produksi, dan manajemen sumber daya energi. "
+    },
+    {
+      "title": "Modul Pembelajaran",
+      "desc":
+        "Modul dari pembimbing yang kompeten dan relevan dengan industri minyak dan gas, sehingga mudah difahami dan dapat di implementasikan antara teori dan praktiknya, mulai dari pemahaman dasar hingga bagaimana menguasai teknik tenaga profesional."
+    },
+    {
+      "title": "Pelatihan Softskill",
+      "desc":
+        "Membekali individu dengan keterampilan komunikasi, kerja tim, pemecahan masalah, manajemen waktu, dan adaptasi dalam lingkungan kerja yang dinamis. Ini menghasilkan mekanik yang lebih efisien, mampu berkolaborasi, dan menghadapi perubahan industri dengan lebih baik."
+    },
+    {
+      "title": "Sertifikat BNSP, ECITB, OPITO",
+      "desc":
+        "Sertifikat yang diberikan dalam setiap pelatihan dari kami merupakan sertifikat yang diakui secara Nasional yakni melalui Badan Nasional Sertifikasi Profesi (BNSP) dan Kementrian Tenaga Kerja Republik Indonesia (Kemenaker) maupun Internasional oleh Engineering Construction Industry Training Board (ECITB) dan Offshore Petroleum Industry Training Organization (OPITO)."
+    },
+    {
+      "title": "Seragam",
+      "desc":
+        "Dalam pelatihan peserta akan mendapatkan satu set seragam, yaitu Baju Praktek, Kacamata Safety, Sepatu Safety."
+    }
+  ]
+}

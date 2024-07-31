@@ -1,0 +1,312 @@
+{
+  "cam": [
+    {
+      "menu": "Tentang Pelatihan",
+      "path": "tentang",
+      "submenu": [
+        "Tentang Mekanik Manufaktur"
+      ]
+    },
+    {
+      "menu": "Benefit",
+      "path": "benefit",
+      "submenu": [
+        "Bimbingan",
+        "Experience",
+        "Workshop",
+        "Modul Pembelajaran",
+        "Pelatihan Softskill",
+        "Sertifikat Kompetensi",
+        "Seragam"
+      ]
+    },
+    {
+      "menu": "Materi",
+      "path": "materi",
+      "submenu": [
+        "Bench Work",
+        "Tool Grinding",
+        "Lathe Work",
+        "Milling Work",
+        "Gambar Teknik",
+        "Autocad",
+        "Solidwork",
+        "Mastercam",
+        "Pelatihan CNC and Tunneling"
+      ]
+    },
+    {
+      "menu": "Prospek Kerja",
+      "path": "prospek",
+      "submenu": [
+        "Production and Quality Control",
+        "Process Planner",
+        "Research and Development",
+        "Operator Mesin Manufaktur"
+      ]
+    },
+    {
+      "menu": "Galeri dan Alumni",
+      "path": "galeri",
+      "submenu": [
+        "Galeri Mekanik Manufaktur",
+        "Alumni"
+      ]
+    }
+  ],
+  "cad": [
+    {
+      "menu": "Tentang Pelatihan",
+      "path": "tentang",
+      "submenu": [
+        "Tentang Desain Manufaktur"
+      ]
+    },
+    {
+      "menu": "Benefit",
+      "path": "benefit",
+      "submenu": [
+        "Bimbingan",
+        "Experience",
+        "Workshop",
+        "Modul Pembelajaran",
+        "Pelatihan Softskill",
+        "Sertifikat Kompetensi",
+        "Seragam"
+      ]
+    },
+    {
+      "menu": "Materi",
+      "path": "materi",
+      "submenu": [
+        "Autocad",
+        "Solidwork",
+        "Unigraphic NX9",
+        "Catia",
+        "Mastercam",
+        "Mold Design"
+      ]
+    },
+    {
+      "menu": "Prospek Kerja",
+      "path": "prospek",
+      "submenu": [
+        "Production Planner",
+        "Operator Maintenance",
+        "Production and Quality Control",
+        "Manufacturing Researcher and Developer",
+        "Manufacturing Project Manager"
+      ]
+    },
+    {
+      "menu": "Galeri dan Alumni",
+      "path": "galeri",
+      "submenu": [
+        "Galeri Desain Manufaktur",
+        "Alumni"
+      ]
+    }
+  ],
+  "welding": [
+    {
+      "menu": "Tentang Pelatihan",
+      "path": "tentang",
+      "submenu": [
+        "Tentang Welding Manufaktur"
+      ]
+    },
+    {
+      "menu": "Benefit",
+      "path": "benefit",
+      "submenu": [
+        "Bimbingan",
+        "Experience",
+        "Workshop",
+        "Modul Pembelajaran",
+        "Pelatihan Softskill",
+        "Sertifikat Kompetensi",
+        "Seragam"
+      ]
+    },
+    {
+      "menu": "Materi",
+      "path": "materi",
+      "submenu": [
+        "Electrical/Shielded Metal Arc Welding Work",
+        "Spot Welding",
+        "Argon Welding Work/TIG Welding Skill",
+        "CO2 Welding Work/MAG Welding Skill"
+      ]
+    },
+    {
+      "menu": "Prospek Kerja",
+      "path": "prospek",
+      "submenu": [
+        "Welding Pertambangan",
+        "Welder Engineer",
+        "Welder Konstruksi Kapal",
+        "Fabrication Welder"
+      ]
+    },
+    {
+      "menu": "Galeri dan Alumni",
+      "path": "galeri",
+      "submenu": [
+        "Galeri Mekanik Manufaktur",
+        "Alumni"
+      ]
+    }
+  ],
+  "otomasi": [
+    {
+      "menu": "Tentang Pelatihan",
+      "path": "tentang",
+      "submenu": [
+        "Tentang Otomasi Manufaktur"
+      ]
+    },
+    {
+      "menu": "Benefit",
+      "path": "benefit",
+      "submenu": [
+        "Bimbingan",
+        "Experience",
+        "Workshop",
+        "Modul Pembelajaran",
+        "Pelatihan Softskill",
+        "Sertifikat Kompetensi",
+        "Seragam"
+      ]
+    },
+    {
+      "menu": "Materi",
+      "path": "materi",
+      "submenu": [
+        "Logic Gate",
+        "Programmable Logic Controller (PLC)",
+        "Mikrokontroler",
+        "Hidrolik dan Pneumatik"
+      ]
+    },
+    {
+      "menu": "Prospek Kerja",
+      "path": "prospek",
+      "submenu": [
+        "Instrument Engineer",
+        "Automation Engineer",
+        "Maintenance Engineer"
+      ]
+    },
+    {
+      "menu": "Galeri dan Alumni",
+      "path": "galeri",
+      "submenu": [
+        "Galeri Mekanik Manufaktur",
+        "Alumni"
+      ]
+    }
+  ],
+  "uwelding": [
+    {
+      "menu": "Tentang Pelatihan",
+      "path": "tentang",
+      "submenu": [
+        "Tentang Underwater Welding Manufaktur"
+      ]
+    },
+    {
+      "menu": "Benefit",
+      "path": "benefit",
+      "submenu": [
+        "Bimbingan",
+        "Experience",
+        "Workshop",
+        "Modul Pembelajaran",
+        "Pelatihan Softskill",
+        "Sertifikat Kompetensi",
+        "Seragam"
+      ]
+    },
+    {
+      "menu": "Materi",
+      "path": "materi",
+      "submenu": [
+        "Electrical/Shielded Arc Underwater Welding Work",
+        "Pull Welding",
+        "Joint Welding",
+        "1F Welding",
+        "2F Welding"
+      ]
+    },
+    {
+      "menu": "Prospek Kerja",
+      "path": "prospek",
+      "submenu": [
+        "Rig Welder",
+        "Quality Assurance Inspector",
+        "Certified Welding Inspector",
+        "Marine Pipefitter"
+      ]
+    },
+    {
+      "menu": "Galeri dan Alumni",
+      "path": "galeri",
+      "submenu": [
+        "Galeri Mekanik Manufaktur",
+        "Alumni"
+      ]
+    }
+  ],
+  "ogsci": [
+    {
+      "menu": "Tentang Pelatihan",
+      "path": "tentang",
+      "submenu": [
+        "Tentang Oil and Gas Skill Center Indonesia"
+      ]
+    },
+    {
+      "menu": "Benefit",
+      "path": "benefit",
+      "submenu": [
+        "Bimbingan",
+        "Experience",
+        "Workshop",
+        "Modul Pembelajaran",
+        "Pelatihan Softskill",
+        "Sertifikat BNSP, ECITB, OPITO",
+        "Seragam"
+      ]
+    },
+    {
+      "menu": "Materi",
+      "path": "materi",
+      "submenu": [
+        "Pelatihan Electrikal",
+        "Pelatihan Instrumen",
+        "Pelatihan Mekanikal",
+        "Pelatihan Operator Proses",
+        "Pelatihan Kesehatan dan Keselamatan Lingkungan",
+        "Pelatihan Konstruksi"
+      ]
+    },
+    {
+      "menu": "Prospek Kerja",
+      "path": "prospek",
+      "submenu": [
+        "Operator Proses",
+        "Welder",
+        "Instrumentation Technician"
+        
+      ]
+    },
+    {
+      "menu": "Galeri dan Alumni",
+      "path": "galeri",
+      "submenu": [
+        "Galeri Mekanik Manufaktur",
+        "Alumni"
+      ]
+    }
+  ]
+}

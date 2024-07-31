@@ -1,0 +1,234 @@
+{
+  "mechanical": [
+    {
+      "title": "Bench Work",
+      "path": ""
+    },
+    {
+      "title": "Lathe Work",
+      "path": ""
+    },
+    {
+      "title": "Milling Work",
+      "path": ""
+    },
+    {
+      "title": "Tool Grinding",
+      "path": ""
+    },
+    {
+      "title": "Gambar Teknik",
+      "path": ""
+    },
+    {
+      "title": "Welding (SMAW, TIG, MIG, Aseteliin)",
+      "path": ""
+    },
+    {
+      "title": "Production Based Education and Training",
+      "path": ""
+    },
+    {
+      "title": "Solidwork",
+      "path": ""
+    },
+    {
+      "title": "CNC Simulation",
+      "path": ""
+    },
+    {
+      "title": "CNC Operator",
+      "path": ""
+    }
+  ],
+  "design": [
+    {
+      "title": "Bench Work",
+      "path": ""
+    },
+    {
+      "title": "Lathe Work",
+      "desc": ""
+    },
+    {
+      "title": "Milling Work",
+      "desc": ""
+    },
+    {
+      "title": "Tool Grinding",
+      "desc": ""
+    },
+    {
+      "title": "Gambar Teknik",
+      "desc": ""
+    },
+    {
+      "title": "Welding (SMAW, TIG, MIG, Aseteliin)",
+      "desc": ""
+    },
+    {
+      "title": "Solidwork",
+      "desc": ""
+    },
+    {
+      "title": "Dimensioning",
+      "desc": ""
+    },
+    {
+      "title": "Assembling",
+      "desc": ""
+    }
+  ],
+  "welding1": [
+    {
+      "title": "Bench Work",
+      "path": ""
+    },
+    {
+      "title": "Lathe Work",
+      "desc": ""
+    },
+    {
+      "title": "Milling Work",
+      "desc": ""
+    },
+    {
+      "title": "Tool Grinding",
+      "desc": ""
+    },
+    {
+      "title": "Gambar Teknik",
+      "desc": ""
+    },
+    {
+      "title": "Welding (SMAW, TIG, MIG, Aseteliin)",
+      "desc": ""
+    },
+    {
+      "title": "Welding SMAW 1F - 4F",
+      "path": ""
+    },
+    {
+      "title": "Welding SMAW 1G - 2G",
+      "path": ""
+    },
+    {
+      "title": "Welding SMAW 3G - 4G",
+      "path": ""
+    },
+    {
+      "title": "Welding SMAW 5G - 6G",
+      "path": ""
+    },
+    {
+      "title": "Welding TIG 1F - 4F",
+      "path": ""
+    },
+    {
+      "title": "Welding MIG 1F - 4F",
+      "path": ""
+    }
+  ],
+  "auto1": [
+    {
+      "title": "Bench Work",
+      "path": ""
+    },
+    {
+      "title": "Lathe Work",
+      "desc": ""
+    },
+    {
+      "title": "Milling Work",
+      "desc": ""
+    },
+    {
+      "title": "Tool Grinding",
+      "desc": ""
+    },
+    {
+      "title": "Gambar Teknik",
+      "desc": ""
+    },
+    {
+      "title": "Welding (SMAW, TIG, MIG, Aseteliin)",
+      "desc": ""
+    },
+    {
+      "title": "Pneumatic",
+      "desc": ""
+    },
+    {
+      "title": "PLC",
+      "desc": ""
+    }
+  ],
+  "cnc": [
+    {
+      "title": "Lathe Work",
+      "desc": ""
+    },
+    {
+      "title": "Milling Work",
+      "desc": ""
+    },
+    {
+      "title": "CNC Operator",
+      "desc": ""
+    },
+    {
+      "title": "Solidwork",
+      "desc": ""
+    },
+    {
+      "title": "Powermill",
+      "desc": ""
+    }
+  ],
+  "welding2": [
+    {
+      "title": "Welding SMAW 1F - 4F",
+      "path": ""
+    },
+    {
+      "title": "Welding SMAW 1G - 2G",
+      "path": ""
+    },
+    {
+      "title": "Welding SMAW 3G - 4G",
+      "path": ""
+    },
+    {
+      "title": "Welding SMAW 5G - 6G",
+      "path": ""
+    },
+    {
+      "title": "Welding TIG 1F - 4F",
+      "path": ""
+    },
+    {
+      "title": "Welding MIG 1F - 4F",
+      "path": ""
+    }
+  ],
+  "uwelding": [
+    {
+      "title": "Underwater Welding (2 Bulan)",
+      "path": ""
+    },
+    {
+      "title": "Underwater Welding (2 Minggu)",
+      "desc": ""
+    }
+  ],
+  "auto2": [
+    {
+      "title": "Pneumatic",
+      "desc": ""
+    },
+    {
+      "title": "PLC",
+      "desc": ""
+    }
+  ]
+}
