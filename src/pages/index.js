@@ -6,7 +6,7 @@ import ThumbProfile from "@/components/ThumbProfile";
 import Card from "@/components/cards/Card";
 import CardSektor from "@/components/cards/CardSektor";
 import KawasanSTP from "@/images/Kawsan-STP-6.png";
-import FungsiDanPeran from "@/images/fungsi-dan-peran.png";
+import FungsiDanPeran from "@/images/cad.png";
 import Image from "next/image";
 import Mitra from "@/components/Mitra";
 import CardLayanan from "@/components/cards/CardLayanan";
