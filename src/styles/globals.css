@@ -200,18 +200,29 @@ html {
  
 .bg-custom-1 {
   background-image: url('../images/layanan/pmm/benefit/bg1.png');
+  border-radius: 0.5rem;
 }
  
 .bg-custom-2 {
   background-image: url('../images/layanan/pmm/benefit/bg2.png');
+  border-radius: 0.5rem;
 }
  
 .bg-custom-3 {
   background-image: url('../images/layanan/pmm/benefit/bg3.png');
+  border-radius: 0.5rem;
 }
  
 .gradient-bg {
   background-image: url(../images/layanan/pmm/benefit/sp.png) !important;
   background-origin: border-box;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+ 
+@media (max-width: 1023px) {
+  .gradient-bg {
+    background-size: cover;
+  }
 }
