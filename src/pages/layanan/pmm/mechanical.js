@@ -1,4 +1,4 @@
-// import styles from "@/styles/Home.module.css";
+// import styles from "@/styles/Home.module.css"; 
 import React, { useState } from 'react';
 import Head from "next/head";
 import Navbar from "@/components/Navbar";
@@ -19,7 +19,6 @@ import dataMateriPMM from "@/data/layanan/pmm/dataMateriPMM.json";
 import { PiToolboxFill } from "react-icons/pi";
 import { MdBook } from "react-icons/md";
 import { PiCertificateFill } from "react-icons/pi";
-
 
 // Import modul atau dependensi yang dibutuhkan
 import Card from "@/components/cards/Card";
@@ -71,166 +70,116 @@ export default function LayananPendukung({ mitra, berita, testimoni }) {
           <div className="container">
             <div className="h-[90vh] flex flex-col justify-center">
               <h1 className="head-1 mb-5 max-w-3xl font-bold text-primary-100">
-              {
-                state.isLang === 'ID' ? ' Mekanik Manufaktur (Basic) ' : ' Mechanical Manufacture (Basic)'
-            }{" "}
+                {state.isLang === 'ID' ? 'Mekanik Manufaktur (Basic)' : 'Mechanical Manufacture (Basic)'}
               </h1>
-              
               <h3 className="mb-5 max-w-3xl text-primary">
-              {
-                state.isLang === 'ID' ? ' Sebagai penunjang Implementasi Kurikulum Merdeka agar dapat membantu guru dalam mendapatkan referensi, inspirasi, dan pemahaman tentang Kurikulum Merdeka ' : ' As a support for the implementation of the Independent Curriculum, it can help teachers get references, inspiration and understanding of the Independent Curriculum'
-            }{" "}
+                {state.isLang === 'ID' ? 'Sebagai penunjang Implementasi Kurikulum Merdeka agar dapat membantu guru dalam mendapatkan referensi, inspirasi, dan pemahaman tentang Kurikulum Merdeka' : 'As a support for the implementation of the Independent Curriculum, it can help teachers get references, inspiration and understanding of the Independent Curriculum'}
               </h3>
             </div>
           </div>
         </section>
         
         <section className="bg-white">
-            <div className="container py-20">
-                <h2 className="head-2 my-10 text-center max-w-3xl mx-auto font-bold text-primary-100">
-                  Materi
-                </h2>
-                <div className="grid grid-cols-1 lg:grid-cols-5 gap-5 lg:gap-5">
-                  {dataMateriPMM.mechanical &&
-                    dataMateriPMM.mechanical.map((data, i) => (
-                      <Card
-                        key={i}
-                        className={
-                          "bg-gray-100 p-8 gap-2 lg:mx-2"
-                        }
+          <div className="container py-20">
+            <h2 className="head-2 my-10 text-center max-w-3xl mx-auto font-bold text-primary-100">
+              Materi
+            </h2>
+            <div className="grid grid-cols-1 lg:grid-cols-5 gap-5 lg:gap-5">
+              {dataMateriPMM.mechanical &&
+                dataMateriPMM.mechanical.map((data, i) => (
+                  <Card
+                    key={i}
+                    className={"bg-gray-100 p-8 gap-2 lg:mx-2"}
+                  >
+                    <div>
+                      <h3
+                        className="text-xl text-center justify-center font-bold mt-5 lg:mt-0 mb-6 hover:text-primary-100 cursor-pointer"
+                        onClick={() => setShowModal(true)}
                       >
-                        <div>
-                          {i === 0 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          {i === 1 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          {i === 2 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          {i === 3 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          {i === 4 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          {i === 5 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          {i === 6 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          {i === 7 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          {i === 8 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          {i === 9 && (
-                            <Image
-                              className="mx-auto"
-                              src=""
-                              width={140}
-                              height={140}
-                              alt="image"
-                            />
-                          )}
-                          <h3
-                            className="text-xl text-center justify-center font-bold mt-5 lg:mt-0 mb-6 hover:text-primary-100 cursor-pointer"
-                            // style={{ maxWidth: "14rem" }}
-                            onClick={() => setShowModal(true)}
+                        {data.title}
+                      </h3>
+
+                      {/* Link YouTube */}
+                      <div className="text-center">
+                        {data.title === "Tutorial Pembubutan Panjang" && (
+                          <a
+                            href="https://www.youtube.com/watch?v=jvpI6s7ONo4"
+                            target="_blank"
+                            className="text-blue-600 hover:text-blue-800"
                           >
-                            {data.title}
-                          </h3>
-                        </div>
-                      </Card>
-                    ))}
-                </div>
+                            Tonton Tutorial Pembubutan Panjang
+                          </a>
+                        )}
+                        {data.title === "Tutorial Bubut: Cara Membubut Facing" && (
+                          <a
+                            href="https://www.youtube.com/watch?v=YYme4HH7H_8"
+                            target="_blank"
+                            className="text-blue-600 hover:text-blue-800"
+                          >
+                            Tonton Tutorial Bubut: Cara Membubut Facing
+                          </a>
+                        )}
+                        {data.title === "Tutorial Benchwork: Cara Pengeboran" && (
+                          <a
+                            href="https://www.youtube.com/watch?v=AxtOZqctQbU"
+                            target="_blank"
+                            className="text-blue-600 hover:text-blue-800"
+                          >
+                            Tonton Tutorial Benchwork: Cara Pengeboran
+                          </a>
+                        )}
+                        {data.title === "Tutorial Benchwork: Cara Mengikir Rata" && (
+                          <a
+                            href="https://www.youtube.com/watch?v=P36dBGUQ_YY"
+                            target="_blank"
+                            className="text-blue-600 hover:text-blue-800"
+                          >
+                            Tonton Tutorial Benchwork: Cara Mengikir Rata
+                          </a>
+                        )}
+                        {data.title === "Tutorial Benchwork: Teknik Menggergaji Zig-Zag" && (
+                          <a
+                            href="https://www.youtube.com/watch?v=mgXQFI6r_QM"
+                            target="_blank"
+                            className="text-blue-600 hover:text-blue-800"
+                          >
+                            Tonton Tutorial Benchwork: Teknik Menggergaji Zig-Zag
+                          </a>
+                        )}
+                      </div>
+                    </div>
+                  </Card>
+                ))}
             </div>
+          </div>
         </section>
       </main>
       <Footer />
-        {showModal ? (
-            <>
-              <div
-                className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none"
-                onClick={() => setShowModal(false)}
-              >
-                <div className="relative w-auto my-6 mx-auto max-w-6xl">
-                  {/*content*/}
-                  <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none">
-                    {/*title*/}
-                    <div className="text-center text-primary-100 justify-between p-5">
-                      <h3 className="text-3xl font-bold">
-                        - Materi Kelas -
-                      </h3>
-                    </div>
-                    {/*body*/}
-                    <div className="relative p-6 flex-auto text-grey">
-                      <p className="my-4 text-blueGray-500 text-lg leading-relaxed text-justify">- Coming Soon -
-                      </p>
-                    </div>
-                  </div>
+      {showModal ? (
+        <>
+          <div
+            className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none"
+            onClick={() => setShowModal(false)}
+          >
+            <div className="relative w-auto my-6 mx-auto max-w-6xl">
+              {/*content*/}
+              <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none">
+                {/*title*/}
+                <div className="text-center text-primary-100 justify-between p-5">
+                  <h3 className="text-3xl font-bold">
+                    - Materi Kelas -
+                  </h3>
+                </div>
+                {/*body*/}
+                <div className="relative p-6 flex-auto text-grey">
+                  <p className="my-4 text-blueGray-500 text-lg leading-relaxed text-justify">- Coming Soon -</p>
                 </div>
               </div>
-              <div className="opacity-25 fixed inset-0 z-40 bg-black"></div>
-            </>
-        ) : null}
+            </div>
+          </div>
+          <div className="opacity-25 fixed inset-0 z-40 bg-black"></div>
+        </>
+      ) : null}
     </>
   );
 }
@@ -260,84 +209,3 @@ export async function getServerSideProps() {
     };
   }
 }
-
-const data = {
-  rows: [
-    {
-      title: "Jenis Diklat yang Bisa Diikuti",
-      content:
-        '<ul><li><b>Diklat APBN:</b><span style="font-weight: 400"> Dibuka pada periode tertentu dan bebas biaya untuk seluruh warga indonesia</span></li><li><b>Diklat APBD:</b><span style="font-weight: 400"> Dibuka pada periode tertentu dan bebas biaya untuk yang memiliki KTP Surakarta</span></li><li><b>Diklat Mandiri:</b><span style="font-weight: 400"> Dibuka sepanjang tahun dan besaran biaya ditentukan sesuai dengan program yang diikuti </span></li></ul>',
-    },
-    {
-      title: "Yang Dipelajari dalam Diklat",
-      content:
-        '<ul><li><span style="font-weight: 400">Pelatihan hardskill sesuai dengan jurusan yang diambil</span></li><li><span style="font-weight: 400">Belajar menggunakan berbagai jenis mesin manufaktur</span></li><li><span style="font-weight: 400">Pelatihan softskill</span></li></ul>',
-    },
-    {
-      title: "Penyaluran Kerja setelah Lulus Diklat",
-      content:
-        "Belum tentu. Penyaluran kerja menimbang aspek nilai akhir peserta diklat, usia peserta diklat, dan kebutuhan perusahaan mitra.",
-    },
-    {
-      title: "Tahapan saat Mengikuti Diklat",
-      content:
-        '<ul><li><span style="font-weight: 400">Tahap 1 merupakan pendidikan dasar teknik (Basic). Dalam tahapan basic ini,para siswa diajarkan ilmu dasar yang meliputi Lathe Work,Bench Work,Grinding Work,Milling Work, dan Gambar Teknik.</span></li><li><span style="font-weight: 400">Tahap 2 merupakan tahap lanjutan (Applied). Dalam tahapan lanjutan ( </span><i><span style="font-weight: 400">Applied </span></i><span style="font-weight: 400">), para siswa diajarkan ke tahap selanjutnya yakni seperti Otomasi Manufaktur, Desain Manufaktur, dan Mekanik Manufaktur.&nbsp;</span></li><li><span style="font-weight: 400">Tahap 3 merupakan tahap akhir (Advance).&nbsp; Peserta yang berhasil lulus berhak mendapatkan Sertifikat Keahlian yang dikeluarkan oleh Solotechnopark.</span></li></ul>',
-    },
-    {
-      title: "Durasi Pelaksanaan Diklat",
-      content:
-        '<ul><li><span style="font-weight: 400">Secara umum diklat dilaksanakan minimal 6 bulan hingga tahap applied dan maksimal 9 bulan hingga tahap advanced</span></li><li><span style="font-weight: 400">Apabila peserta mengikuti melalui program pemerintah maka durasi diklat didasarkan sesuai dengan kebijakan pemerintah</span></li></ul>',
-    },
-    {
-      title: "Batas Usia untuk Mengikuti Diklat",
-      content:
-        '<ul><li><span style="font-weight: 400">Tidak ada batasan usia</span></li><li><span style="font-weight: 400">Apabila ingin langsung mendapat rekomendasi penyaluran kerja minimal berusia 22 tahun</span></li></ul>',
-    },
-    {
-      title: "Persyaratan untuk Mengikuti Diklat",
-      content: "Minimal memiliki ijazah SLTA dan sederajat",
-    },
-    {
-      title: "Persyaratan Fisik untuk Mengikuti Diklat",
-      content:
-        '<ul><li><span style="font-weight: 400">Tidak buta warna</span></li><li><span style="font-weight: 400">Bukan penderita ayan/epilepsi</span></li></ul>',
-    },
-    {
-      title: "Dokumen yang Harus Dipersiapkan",
-      content:
-        '<ul><li><span style="font-weight: 400">Fotocopy KTP Calon Peserta</span></li><li><span style="font-weight: 400">Fotocopy KTP Orangtua</span></li><li><span style="font-weight: 400">Fotocopy KK</span></li><li><span style="font-weight: 400">Fotocopy Ijasah</span></li><li><span style="font-weight: 400">Fotocopy Transkrip Nilai</span></li><li><span style="font-weight: 400">Surat Keterangan Sehat</span></li><li><span style="font-weight: 400">Surat Pernyataan (Bermaterai) * Didapat saat registrasi offline</span></li><li><span style="font-weight: 400">SKCK</span></li><li><span style="font-weight: 400">Pas Foto 4X6</span></li></ul>',
-    },
-    {
-      title: "Minimal Nilai Ijazah untuk Mendaftar Diklat",
-      content: "Tidak ada",
-    },
-    {
-      title: "Penggunaan Materai pada Dokumen Diklat",
-      content:
-        "Ya, pada dokumen Surat Penyataan *Didapat saat registrasi offline",
-    },
-    {
-      title: "Alur Pendaftaran Diklat",
-      content:
-        '<ul><li><span style="font-weight: 400">Datang ke Pendaftaran STP</span></li><li><span style="font-weight: 400">Scan QR Code di Ruang Pendaftaran</span></li><li><span style="font-weight: 400">Mengisi Formulir Biodata Offline</span></li><li><span style="font-weight: 400">Melengkapi Berkas Persyaratan</span></li><li><span style="font-weight: 400">Tes Tulis</span></li><li><span style="font-weight: 400">Tes Wawancara</span></li></ul>',
-    },
-    {
-      title: "Mendaftar untuk Banyak Jurusan Diklat",
-      content: "Tidak bisa",
-    },
-    {
-      title: "Warga di Luar Kota Surakarta Mengikuti Diklat",
-      content: "Bisa",
-    },
-    {
-      title: "Kuota Peserta Diklat",
-      content:
-        "Ada. Jumlahnya ditentukan tergantung program dan kebijakan Solo Technopark",
-    },
-    {
-      title: "Biaya Pendaftaran Diklat",
-      content:
-        '<ul><li><span style="font-weight: 400">Bervariasi tergantung program</span></li><li><span style="font-weight: 400">Untuk lebih detail harap hubungi CP</span></li></ul>',
-    },
-  ],
-};

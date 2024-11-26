@@ -3,36 +3,23 @@
   import Navbar from "@/components/Navbar";
   import Footer from "@/components/Footer";
   import { NextSeo } from "next-seo";
-  import Button from "@/components/Button";
   import {
     Link as ScrollLink,
-    animateScroll as scroll,
-    scroller,
-    Scroll,
   } from "react-scroll";
   import Link from "next/link";
-  import Faq from "react-faq-component";
   import dataSide from "@/data/layanan/pmm/dataSide.json";
-  import dataBenefitPMM from "@/data/layanan/pmm/dataBenefitPMM.json";
-  import dataKelasPMM from "@/data/layanan/pmm/dataKelasPMM.json";
-   
-  import { PiToolboxFill } from "react-icons/pi";
-  import { MdBook } from "react-icons/md";
-  import { PiCertificateFill } from "react-icons/pi";
-   
    
   // Import modul atau dependensi yang dibutuhkan
   import Card from "@/components/cards/Card";
   import Image from "next/image";
   import axios from "../../api/axios";
-  import { BsCheckCircleFill } from "react-icons/bs";
   import { useAppContext } from "@/context/AppContext";
   import { FaArrowCircleRight } from "react-icons/fa";
   import Benefit1 from "@/images/layanan/pmm/benefit/benefit1.png";
   import Benefit2 from "@/images/layanan/pmm/benefit/benefit2.png";
   import Benefit3 from "@/images/layanan/pmm/benefit/benefit3.png";
    
-  export default function LayananPendukung({ mitra, berita, testimoni }) {
+  export default function LayananPendukung() {
     const [state, dispatch] = useAppContext();
     return (
       <>
@@ -272,11 +259,12 @@
                           ].map((data, i) => (
                             <Card key={i} className="w-full md:w-1/2 lg:w-1/4 px-2 mb-4">
                               <div className="bg-gray-200 p-6 rounded-lg shadow-lg flex flex-col justify-between h-full">
-                                {/* Bagian Atas */}
+                                {/* Header Card */}
                                 <div>
                                   <h3 className="text-2xl font-bold text-primary-100 text-center mb-4">
                                     {data.title}
                                   </h3>
+                                  {/* Deskripsi Card */}
                                   <h4 className="text-primary-100 text-center font-semibold mb-4">
                                     {data.duration}
                                   </h4>
@@ -284,7 +272,6 @@
                                     {data.desc}
                                   </p>
                                 </div>
-
                                 {/* Ikon Panah */}
                                 <div className="text-right">
                                   <Link
@@ -311,7 +298,6 @@
                         </div>
                       </div>
                     </div>
-
 
                     </div>
                   </div>
@@ -349,83 +335,3 @@
     }
   }
    
-  const data = {
-    rows: [
-      {
-        title: "Jenis Diklat yang Bisa Diikuti",
-        content:
-          "<ul><li><b>Diklat APBN:</b><span style=\"font-weight: 400\"> Dibuka pada periode tertentu dan bebas biaya untuk seluruh warga indonesia</span></li><li><b>Diklat APBD:</b><span style=\"font-weight: 400\"> Dibuka pada periode tertentu dan bebas biaya untuk yang memiliki KTP Surakarta</span></li><li><b>Diklat Mandiri:</b><span style=\"font-weight: 400\"> Dibuka sepanjang tahun dan besaran biaya ditentukan sesuai dengan program yang diikuti </span></li></ul>"
-      },
-      {
-        title: "Yang Dipelajari dalam Diklat",
-        content:
-          "<ul><li><span style=\"font-weight: 400\">Pelatihan hardskill sesuai dengan jurusan yang diambil</span></li><li><span style=\"font-weight: 400\">Belajar menggunakan berbagai jenis mesin manufaktur</span></li><li><span style=\"font-weight: 400\">Pelatihan softskill</span></li></ul>"
-      },
-      {
-        title: "Penyaluran Kerja setelah Lulus Diklat",
-        content:
-          "Belum tentu. Penyaluran kerja menimbang aspek nilai akhir peserta diklat, usia peserta diklat, dan kebutuhan perusahaan mitra."
-      },
-      {
-        title: "Tahapan saat Mengikuti Diklat",
-        content:
-          "<ul><li><span style=\"font-weight: 400\">Tahap 1 merupakan pendidikan dasar teknik (Basic). Dalam tahapan basic ini,para siswa diajarkan ilmu dasar yang meliputi Lathe Work,Bench Work,Grinding Work,Milling Work, dan Gambar Teknik.</span></li><li><span style=\"font-weight: 400\">Tahap 2 merupakan tahap lanjutan (Applied). Dalam tahapan lanjutan ( </span><i><span style=\"font-weight: 400\">Applied </span></i><span style=\"font-weight: 400\">), para siswa diajarkan ke tahap selanjutnya yakni seperti Otomasi Manufaktur, Desain Manufaktur, dan Mekanik Manufaktur.&nbsp;</span></li><li><span style=\"font-weight: 400\">Tahap 3 merupakan tahap akhir (Advance).&nbsp; Peserta yang berhasil lulus berhak mendapatkan Sertifikat Keahlian yang dikeluarkan oleh Solotechnopark.</span></li></ul>"
-      },
-      {
-        title: "Durasi Pelaksanaan Diklat",
-        content:
-          "<ul><li><span style=\"font-weight: 400\">Secara umum diklat dilaksanakan minimal 6 bulan hingga tahap applied dan maksimal 9 bulan hingga tahap advanced</span></li><li><span style=\"font-weight: 400\">Apabila peserta mengikuti melalui program pemerintah maka durasi diklat didasarkan sesuai dengan kebijakan pemerintah</span></li></ul>"
-      },
-      {
-        title: "Batas Usia untuk Mengikuti Diklat",
-        content:
-          "<ul><li><span style=\"font-weight: 400\">Tidak ada batasan usia</span></li><li><span style=\"font-weight: 400\">Apabila ingin langsung mendapat rekomendasi penyaluran kerja minimal berusia 22 tahun</span></li></ul>"
-      },
-      {
-        title: "Persyaratan untuk Mengikuti Diklat",
-        content: "Minimal memiliki ijazah SLTA dan sederajat"
-      },
-      {
-        title: "Persyaratan Fisik untuk Mengikuti Diklat",
-        content:
-          "<ul><li><span style=\"font-weight: 400\">Tidak buta warna</span></li><li><span style=\"font-weight: 400\">Bukan penderita ayan/epilepsi</span></li></ul>"
-      },
-      {
-        title: "Dokumen yang Harus Dipersiapkan",
-        content:
-          "<ul><li><span style=\"font-weight: 400\">Fotocopy KTP Calon Peserta</span></li><li><span style=\"font-weight: 400\">Fotocopy KTP Orangtua</span></li><li><span style=\"font-weight: 400\">Fotocopy KK</span></li><li><span style=\"font-weight: 400\">Fotocopy Ijasah</span></li><li><span style=\"font-weight: 400\">Fotocopy Transkrip Nilai</span></li><li><span style=\"font-weight: 400\">Surat Keterangan Sehat</span></li><li><span style=\"font-weight: 400\">Surat Pernyataan (Bermaterai) * Didapat saat registrasi offline</span></li><li><span style=\"font-weight: 400\">SKCK</span></li><li><span style=\"font-weight: 400\">Pas Foto 4X6</span></li></ul>"
-      },
-      {
-        title: "Minimal Nilai Ijazah untuk Mendaftar Diklat",
-        content: "Tidak ada"
-      },
-      {
-        title: "Penggunaan Materai pada Dokumen Diklat",
-        content:
-          "Ya, pada dokumen Surat Penyataan *Didapat saat registrasi offline"
-      },
-      {
-        title: "Alur Pendaftaran Diklat",
-        content:
-          "<ul><li><span style=\"font-weight: 400\">Datang ke Pendaftaran STP</span></li><li><span style=\"font-weight: 400\">Scan QR Code di Ruang Pendaftaran</span></li><li><span style=\"font-weight: 400\">Mengisi Formulir Biodata Offline</span></li><li><span style=\"font-weight: 400\">Melengkapi Berkas Persyaratan</span></li><li><span style=\"font-weight: 400\">Tes Tulis</span></li><li><span style=\"font-weight: 400\">Tes Wawancara</span></li></ul>"
-      },
-      {
-        title: "Mendaftar untuk Banyak Jurusan Diklat",
-        content: "Tidak bisa",
-      },
-      {
-        title: "Warga di Luar Kota Surakarta Mengikuti Diklat",
-        content: "Bisa",
-      },
-      {
-        title: "Kuota Peserta Diklat",
-        content:
-          "Ada. Jumlahnya ditentukan tergantung program dan kebijakan Solo Technopark",
-      },
-      {
-        title: "Biaya Pendaftaran Diklat",
-        content:
-          '<ul><li><span style="font-weight: 400">Bervariasi tergantung program</span></li><li><span style="font-weight: 400">Untuk lebih detail harap hubungi CP</span></li></ul>',
-      },
-    ],
-  };
