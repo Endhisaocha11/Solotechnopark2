@@ -161,145 +161,158 @@
                       </div>
    
                       <div id="basic" className="container pt-24">
-                        <h2 className="head-2 mb-5 font-bold text-primary-100">Kelas Basic</h2>
-                        <div className="pb-10 pt-10">
-                          <div className="flex flex-wrap -mx-2 text-justify">
-                            {["Mechanical Manufacture", "Design Manufacture", "Welding Manufacture", "Automation Manufacture"].map((title, i) => (
-                              <div key={i} className="w-full md:w-1/2 lg:w-1/4 px-2 mb-4 flex">
-                                <div className="max-w-sm w-full rounded-xl shadow-lg overflow-hidden flex flex-col justify-between">
-                                  <div className="gradient-bg p-6 text-white rounded-t-xl">
-                                    <h2 className="text-2xl font-bold">{title}</h2>
-                                  </div>
-                                  <div className="p-5 bg-white flex-grow">
-                                    <p className="text-red-500 font-semibold">Durasi : 9 Bulan</p>
-                                    <p className="mt-4 text-gray-600">
-                                      {i === 0 && "Pelatihan keterampilan bidang permesinan manufacturing untuk mengolah bahan baku menjadi produk jadi maupun setengah jadi (part) dengan output SDM yang kompeten yang mudah terserap di dunia industri."}
-                                      {i === 1 && "Pelatihan keterampilan menggambar rancang bangun suatu produk yang memiliki presisi tinggi yang dikerjakan secara komputerisasi, dengan output SDM yang kompeten yang mudah terserap di dunia industri."}
-                                      {i === 2 && "Pelatihan keterampilan pengelasan yang mencakup pengetahuan dasar bahan logam, proses metalurgi, teknik serta teknologi pengelasan dengan output SDM yang kompeten yang mudah terserap di dunia industri."}
-                                      {i === 3 && "Pelatihan keterampilan rancang bangun perangkat dan sistem kontrol mencakup materi dasar dengan tujuan operasional otomatis melalui komputerisasi, dengan output SDM yang kompeten yang mudah terserap di dunia industri."}
-                                    </p>
-                                  </div>
-                                  <div className="flex justify-end p-7 relative">
-                                    {i === 0 && (
-                                      <Link
-                                        className="inline-block"
-                                        href="https://solotechnopark.id/layanan/pmm/mechanical"
-                                        target="_blank"
-                                      >
-                                        <button>
-                                          <FaArrowCircleRight className="text-primary-100 w-10 h-10 my-5 absolute bottom-5 right-8 hover:text-blue-600" />
-                                        </button>
-                                      </Link>
-                                    )}
-                                    {i === 1 && (
-                                      <Link
-                                        className="inline-block"
-                                        href="https://solotechnopark.id/layanan/pmm/design"
-                                        target="_blank"
-                                      >
-                                        <button>
-                                          <FaArrowCircleRight className="text-primary-100 w-10 h-10 my-5 absolute bottom-5 right-8 hover:text-blue-600" />
-                                        </button>
-                                      </Link>
-                                    )}
-                                    {i === 2 && (
-                                      <Link
-                                        className="inline-block"
-                                        href="https://solotechnopark.id/layanan/pmm/welding1"
-                                        target="_blank"
-                                      >
-                                        <button>
-                                          <FaArrowCircleRight className="text-primary-100 w-10 h-10 my-5 absolute bottom-5 right-8 hover:text-blue-600" />
-                                        </button>
-                                      </Link>
-                                    )}
-                                    {i === 3 && (
-                                      <Link
-                                        className="inline-block"
-                                        href="https://solotechnopark.id/layanan/pmm/auto1"
-                                        target="_blank"
-                                      >
-                                        <button>
-                                          <FaArrowCircleRight className="text-primary-100 w-10 h-10 my-5 absolute bottom-5 right-8 hover:text-blue-600" />
-                                        </button>
-                                      </Link>
-                                    )}
-                                  </div>
+                      <h2 className="head-2 mb-5 font-bold text-primary-100">Kelas Basic</h2>
+                      <div className="pb-10 pt-10">
+                        <div className="flex flex-wrap -mx-2 text-justify">
+                          {[
+                            "Mechanical Manufacture",
+                            "Design Manufacture",
+                            "Welding Manufacture",
+                            "Automation Manufacture",
+                          ].map((title, i) => (
+                            <div key={i} className="w-full md:w-1/2 lg:w-1/4 px-2 mb-4 flex">
+                              <div className="max-w-sm w-full rounded-xl shadow-lg overflow-hidden flex flex-col justify-between">
+                                {/* Header Card */}
+                                <div className="gradient-bg p-6 text-white rounded-t-xl">
+                                  <h2 className="text-2xl font-bold">{title}</h2>
+                                </div>
+                                {/* Deskripsi Card */}
+                                <div className="p-5 bg-white flex-grow">
+                                  <p className="text-red-500 font-semibold">Durasi : 9 Bulan</p>
+                                  <p className="mt-4 text-gray-600">
+                                    {i === 0 &&
+                                      "Pelatihan keterampilan bidang permesinan manufacturing untuk mengolah bahan baku menjadi produk jadi maupun setengah jadi (part) dengan output SDM yang kompeten yang mudah terserap di dunia industri."}
+                                    {i === 1 &&
+                                      "Pelatihan keterampilan menggambar rancang bangun suatu produk yang memiliki presisi tinggi yang dikerjakan secara komputerisasi, dengan output SDM yang kompeten yang mudah terserap di dunia industri."}
+                                    {i === 2 &&
+                                      "Pelatihan keterampilan pengelasan yang mencakup pengetahuan dasar bahan logam, proses metalurgi, teknik serta teknologi pengelasan dengan output SDM yang kompeten yang mudah terserap di dunia industri."}
+                                    {i === 3 &&
+                                      "Pelatihan keterampilan rancang bangun perangkat dan sistem kontrol mencakup materi dasar dengan tujuan operasional otomatis melalui komputerisasi, dengan output SDM yang kompeten yang mudah terserap di dunia industri."}
+                                  </p>
+                                </div>
+                                {/* Ikon Panah */}
+                                <div className="flex justify-end p-7 relative">
+                                  {i === 0 && (
+                                    <Link
+                                      className="inline-block"
+                                      href="https://solotechnopark.id/layanan/pmm/mechanical"
+                                      target="_blank"
+                                    >
+                                      <button>
+                                        <FaArrowCircleRight className="text-primary-100 w-10 h-10 hover:text-blue-600" />
+                                      </button>
+                                    </Link>
+                                  )}
+                                  {i === 1 && (
+                                    <Link
+                                      className="inline-block"
+                                      href="https://solotechnopark.id/layanan/pmm/design"
+                                      target="_blank"
+                                    >
+                                      <button>
+                                        <FaArrowCircleRight className="text-primary-100 w-10 h-10 hover:text-blue-600" />
+                                      </button>
+                                    </Link>
+                                  )}
+                                  {i === 2 && (
+                                    <Link
+                                      className="inline-block"
+                                      href="https://solotechnopark.id/layanan/pmm/welding1"
+                                      target="_blank"
+                                    >
+                                      <button>
+                                        <FaArrowCircleRight className="text-primary-100 w-10 h-10 hover:text-blue-600" />
+                                      </button>
+                                    </Link>
+                                  )}
+                                  {i === 3 && (
+                                    <Link
+                                      className="inline-block"
+                                      href="https://solotechnopark.id/layanan/pmm/auto1"
+                                      target="_blank"
+                                    >
+                                      <button>
+                                        <FaArrowCircleRight className="text-primary-100 w-10 h-10 hover:text-blue-600" />
+                                      </button>
+                                    </Link>
+                                  )}
                                 </div>
                               </div>
-                            ))}
-                          </div>
+                            </div>
+                          ))}
                         </div>
                       </div>
+                    </div>
 
-                      <div id="specialist" className="container pt-24">
-                        <h2 className="head-2 mb-5 font-bold text-primary-100">Kelas Specialist</h2>
-                        <div className="pb-10 pt-10">
-                          <div className="flex flex-wrap -mx-2 text-justify">
-                            {[{ title: "Design and CNC Specialist", duration: "Durasi: 3,5 Bulan", desc: "Lorem ipsum dolor sit amet consectetur. Consequat viverra gravida elementum vulputate facilisis..." },
-                              { title: "General Welding", duration: "Durasi: 2,5 Bulan", desc: "Lorem ipsum dolor sit amet consectetur. Consequat viverra gravida elementum vulputate facilisis..." },
-                              { title: "Underwater Welding", duration: "Durasi: 2 Bulan & 2 Minggu", desc: "Lorem ipsum dolor sit amet consectetur. Consequat viverra gravida elementum vulputate facilisis..." },
-                              { title: "Automation", duration: "Durasi: 1 Bulan", desc: "Lorem ipsum dolor sit amet consectetur. Consequat viverra gravida elementum vulputate facilisis..." }
-                            ].map((data, i) => (
-                              <Card key={i} className="w-full md:w-1/2 lg:w-1/4 px-2 mb-4 flex">
-                                <div className="bg-gray-200 p-6 rounded-lg shadow-lg flex flex-col justify-between flex-grow">
-                                  <div className="mb-auto">
-                                    <h3 className="text-2xl text-center font-bold text-primary-100 mt-5 lg:mt-2 mb-6">{data.title}</h3>
-                                    <h4 className="text-center text-primary-100 mt-5 lg:mt-0 mb-6">{data.duration}</h4>
-                                    <p className="text-justify pb-10">{data.desc}</p>
-                                  </div>
-                                  <div className="mt-auto">
-                                    {i === 0 && (
-                                      <Link
-                                        className="inline-block"
-                                        href={"https://solotechnopark.id/layanan/pmm/cnc"}
-                                        target="_blank"
-                                      >
-                                        <button>
-                                          <FaArrowCircleRight className="text-primary-100 w-10 h-10 my-5 absolute bottom-5 right-8 hover:text-blue-600" />
-                                        </button>
-                                      </Link>
-                                    )}
-                                    {i === 1 && (
-                                      <Link
-                                        className="inline-block"
-                                        href={"https://solotechnopark.id/layanan/pmm/welding2"}
-                                        target="_blank"
-                                      >
-                                        <button>
-                                          <FaArrowCircleRight className="text-primary-100 w-10 h-10 my-5 absolute bottom-5 right-8 hover:text-blue-600" />
-                                        </button>
-                                      </Link>
-                                    )}
-                                    {i === 2 && (
-                                      <Link
-                                        className="inline-block"
-                                        href={"https://solotechnopark.id/layanan/pmm/uwelding"}
-                                        target="_blank"
-                                      >
-                                        <button>
-                                          <FaArrowCircleRight className="text-primary-100 w-10 h-10 my-5 absolute bottom-5 right-8 hover:text-blue-600" />
-                                        </button>
-                                      </Link>
-                                    )}
-                                    {i === 3 && (
-                                      <Link
-                                        className="inline-block"
-                                        href={"https://solotechnopark.id/layanan/pmm/auto2"}
-                                        target="_blank"
-                                      >
-                                        <button>
-                                          <FaArrowCircleRight className="text-primary-100 w-10 h-10 my-5 absolute bottom-5 right-8 hover:text-blue-600" />
-                                        </button>
-                                      </Link>
-                                    )}
-                                  </div>
+                    <div id="specialist" className="container pt-24">
+                      <h2 className="head-2 mb-5 font-bold text-primary-100">Kelas Specialist</h2>
+                      <div className="pb-10 pt-10">
+                        <div className="flex flex-wrap -mx-2">
+                          {[
+                            {
+                              title: "Design and CNC Specialist",
+                              duration: "Durasi: 3,5 Bulan",
+                              desc: "Program ini dirancang untuk menghasilkan tenaga ahli dalam bidang desain dan pengoperasian mesin CNC (Computer Numerical Control). Peserta akan mempelajari konsep perancangan, pemrograman, hingga pengoperasian mesin berbasis CNC menggunakan perangkat lunak terkini yang sesuai dengan standar kebutuhan industri.",
+                            },
+                            {
+                              title: "General Welding",
+                              duration: "Durasi: 2,5 Bulan",
+                              desc: "Program ini menyediakan pengetahuan mendalam tentang teknik pengelasan umum, termasuk metode SMAW (Shielded Metal Arc Welding), MIG, dan TIG. Peserta akan dilatih untuk menguasai keterampilan dari tingkat dasar hingga tingkat lanjut yang relevan dengan aplikasi industri modern.",
+                            },
+                            {
+                              title: "Underwater Welding",
+                              duration: "Durasi: 2 Bulan & 2 Minggu",
+                              desc: "Program ini berfokus pada teknik pengelasan di lingkungan bawah air yang dirancang untuk mendukung kebutuhan proyek-proyek di sektor kelautan dan industri migas. Pelatihan ini dilengkapi dengan sertifikasi profesional yang diakui secara internasional.",
+                            },
+                            {
+                              title: "Automation",
+                              duration: "Durasi: 1 Bulan",
+                              desc: "Program ini memberikan kompetensi di bidang otomasi industri, meliputi pemrograman sistem kontrol otomatis dan integrasi teknologi dalam proses manufaktur. Peserta akan dipersiapkan untuk mengoptimalkan efisiensi produksi dengan kemampuan otomasi yang sesuai dengan perkembangan teknologi terkini.",
+                            },
+                          ].map((data, i) => (
+                            <Card key={i} className="w-full md:w-1/2 lg:w-1/4 px-2 mb-4">
+                              <div className="bg-gray-200 p-6 rounded-lg shadow-lg flex flex-col justify-between h-full">
+                                {/* Bagian Atas */}
+                                <div>
+                                  <h3 className="text-2xl font-bold text-primary-100 text-center mb-4">
+                                    {data.title}
+                                  </h3>
+                                  <h4 className="text-primary-100 text-center font-semibold mb-4">
+                                    {data.duration}
+                                  </h4>
+                                  <p className="text-justify leading-relaxed text-sm">
+                                    {data.desc}
+                                  </p>
                                 </div>
-                              </Card>
-                            ))}
-                          </div>
+
+                                {/* Ikon Panah */}
+                                <div className="text-right">
+                                  <Link
+                                    className="inline-block"
+                                    href={
+                                      i === 0
+                                        ? "https://solotechnopark.id/layanan/pmm/cnc"
+                                        : i === 1
+                                        ? "https://solotechnopark.id/layanan/pmm/welding2"
+                                        : i === 2
+                                        ? "https://solotechnopark.id/layanan/pmm/uwelding"
+                                        : "https://solotechnopark.id/layanan/pmm/auto2"
+                                    }
+                                    target="_blank"
+                                  >
+                                    <button>
+                                      <FaArrowCircleRight className="text-primary-100 w-10 h-10 mt-5 hover:text-blue-600" />
+                                    </button>
+                                  </Link>
+                                </div>
+                              </div>
+                            </Card>
+                          ))}
                         </div>
                       </div>
+                    </div>
+
+
                     </div>
                   </div>
               </div>
