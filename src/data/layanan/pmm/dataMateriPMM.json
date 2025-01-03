@@ -1,44 +1,29 @@
 {
   "mechanical": [
     {
-      "title": "Bench Work",
-      "path": ""
+      "title": "Tutorial Pembubutan Panjang",
+      "description": "Pembubutan panjang adalah proses menghilangkan material secara linier pada benda kerja menggunakan mesin bubut. Teknik ini bertujuan untuk menghasilkan permukaan yang halus dan presisi pada komponen berbentuk silinder dengan dimensi yang telah ditentukan.",
+      "videoUrl": "https://www.youtube.com/embed/jvpI6s7ONo4?si=2Da_mGhl6aBB8EoI"
     },
     {
-      "title": "Lathe Work",
-      "path": ""
+      "title": "Tutorial Bubut: Cara Membubut Facing",
+      "description": "Facing adalah proses membubut bagian ujung permukaan benda kerja agar rata dan tegak lurus terhadap sumbu putar. Teknik ini sering dilakukan sebelum memulai proses pembubutan lainnya untuk memastikan permukaan dasar yang presisi.",
+      "videoUrl": "https://www.youtube.com/embed/YYme4HH7H_8?si=JqhZJAVfLNpjADJg"
     },
     {
-      "title": "Milling Work",
-      "path": ""
+      "title": "Tutorial Benchwork: Cara Pengeboran & Pengetapan Benda Kerja",
+      "description": "Proses pengeboran melibatkan pembuatan lubang pada benda kerja menggunakan bor, sedangkan pengetapan adalah proses pembuatan ulir di dalam lubang tersebut. Kedua teknik ini memerlukan alat yang sesuai dan pengaturan yang presisi untuk menghasilkan hasil yang optimal.",
+      "videoUrl": "https://www.youtube.com/embed/AxtOZqctQbU?si=wRf8iVIdjt_SjTnQ"
     },
     {
-      "title": "Tool Grinding",
-      "path": ""
+      "title": "Tutorial Benchwork: Cara Mengikir Rata",
+      "description": "Mengikir adalah proses manual untuk meratakan atau merapikan permukaan benda kerja. Teknik ini menggunakan alat kikir yang digerakkan secara manual, dan membutuhkan ketelitian serta keterampilan untuk mencapai permukaan yang rata.",
+      "videoUrl": "https://www.youtube.com/embed/P36dBGUQ_YY?si=8LhMuZL_-BikfMDL"
     },
     {
-      "title": "Gambar Teknik",
-      "path": ""
-    },
-    {
-      "title": "Welding (SMAW, TIG, MIG, Aseteliin)",
-      "path": ""
-    },
-    {
-      "title": "Production Based Education and Training",
-      "path": ""
-    },
-    {
-      "title": "Solidwork",
-      "path": ""
-    },
-    {
-      "title": "CNC Simulation",
-      "path": ""
-    },
-    {
-      "title": "CNC Operator",
-      "path": ""
+      "title": "Tutorial Benchwork: Teknik Menggergaji Zig-Zag",
+      "description": "Teknik menggergaji zig-zag dilakukan untuk memotong benda kerja dengan pola yang tidak lurus. Pola ini sering digunakan untuk meningkatkan kontrol selama proses pemotongan dan memastikan material yang dihasilkan sesuai dengan kebutuhan desain.",
+      "videoUrl": "https://www.youtube.com/embed/mgXQFI6r_QM?si=m-nVb9uU-vKQVb5y"
     }
   ],
   "design": [

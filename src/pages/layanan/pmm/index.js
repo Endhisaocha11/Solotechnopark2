@@ -182,7 +182,7 @@
                                   {i === 0 && (
                                     <Link
                                       className="inline-block"
-                                      href="https://solotechnopark.id/layanan/pmm/mechanical"
+                                      href="/layanan/pmm/mechanical"
                                       target="_blank"
                                     >
                                       <button>
